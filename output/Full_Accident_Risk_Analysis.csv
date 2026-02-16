@@ -1,0 +1,896 @@
+month,day_of_week,state,vehicle_1,vehicle_2,vehicles_involved,party_age_group,victim_age_group,road_condition,lighting_condition,weather_group,Actual_Severity,Predicted_Severity,Risk_Score
+October,Sunday,Unknown,Truck,Unidentified,2,Over 51,18-30,Dry,Daylight,Clear,Minor,Minor,10.0
+October,Tuesday,Unknown,Truck,Unidentified,1,18-30,Unknown,Wet,Dark,Clear,Severe,Minor,49.03225806451613
+October,Thursday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,3.0
+June,Thursday,Tripura,Truck,Unidentified,1,Over 51,Unknown,Damaged/Construction,Twilight,Rainy,Minor,Severe,65.0
+July,Sunday,Unknown,Truck,Unidentified,2,31-50,31-50,Wet,Daylight,Rainy,Minor,Minor,1.0476190476190477
+April,Thursday,Unknown,Truck,Unidentified,2,18-30,Over 51,Dry,Daylight,Clear,Minor,Minor,9.0
+October,Wednesday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,13.18181818181818
+May,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,15.443722943722943
+September,Saturday,Unknown,Truck,Unidentified,3,31-50,Unknown,Wet,Dark,Rainy,Minor,Minor,42.0
+May,Tuesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,1.032258064516129
+March,Friday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Severe,68.25757575757575
+April,Tuesday,Unknown,Truck,Unidentified,3,Over 51,18-30,Dry,Daylight,Clear,Minor,Minor,41.0
+May,Sunday,Rajasthan,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+March,Tuesday,Odisha,Truck,Unidentified,4,Over 51,Unknown,Dry,Daylight,Fog/Mist,Minor,Severe,77.0
+April,Monday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,3.0
+April,Thursday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,7.090909090909091
+October,Tuesday,Haryana,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+June,Tuesday,Madhya Pradesh,Truck,Gorge,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+May,Monday,Unknown,Truck,Unidentified,1,31-50,Unknown,Wet,Dark,Clear,Minor,Minor,37.0
+March,Thursday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Severe,Minor,0.047619047619047616
+November,Sunday,Chhattisgarh,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+May,Thursday,West Bengal,Truck,Unidentified,3,Over 51,Unknown,Dry,Twilight,Rainy,Severe,Severe,84.0
+July,Sunday,Maharashtra,Car,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+April,Tuesday,Unknown,Truck,Unidentified,6,Unknown,31-50,Dry,Daylight,Clear,Minor,Minor,13.0
+October,Tuesday,Karnataka,Car,Truck,2,Unknown,Unknown,Wet,Dark,Clear,Severe,Severe,98.0
+March,Monday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,26.047619047619047
+March,Friday,Unknown,Truck,Unidentified,1,Unknown,Over 51,Dry,Daylight,Clear,Minor,Minor,17.047619047619047
+May,Tuesday,Unknown,Truck,Unidentified,3,Under 18,18-30,Dry,Daylight,Clear,Severe,Minor,6.0
+October,Wednesday,Jammu and Kashmir,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,79.0
+August,Wednesday,Uttar Pradesh,Truck,Unidentified,2,Unknown,Under 18,Wet,Dark,Clear,Severe,Severe,52.0
+May,Friday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Dark,Clear,Minor,Minor,1.0
+January,Sunday,Punjab,Truck,Unidentified,3,31-50,Unknown,Damaged/Construction,Dark,Rainy,Minor,Severe,61.0
+May,Friday,Unknown,Truck,Unidentified,3,Unknown,18-30,Dry,Dark,Clear,Minor,Minor,19.0
+October,Monday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,15.673160173160172
+March,Wednesday,Maharashtra,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+October,Saturday,Unknown,Truck,Unidentified,3,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,5.0
+April,Friday,Unknown,Truck,Unidentified,3,18-30,18-30,Wet,Daylight,Clear,Minor,Minor,15.0
+October,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Clear,Severe,Minor,6.0
+March,Thursday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Dark,Clear,Minor,Minor,26.0
+March,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,28.000000000000004
+April,Friday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Wet,Daylight,Clear,Minor,Minor,2.0
+March,Saturday,Haryana,Pedestrian,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+October,Saturday,Unknown,Truck,Unidentified,3,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,45.0
+March,Tuesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.0
+May,Wednesday,Rajasthan,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+May,Sunday,Unknown,Truck,Unidentified,4,Unknown,31-50,Dry,Daylight,Clear,Minor,Minor,7.000000000000001
+January,Monday,Uttar Pradesh,Pedestrian,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+April,Thursday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Dark,Clear,Minor,Minor,5.0
+September,Thursday,Delhi,Truck,Unidentified,1,Over 51,Unknown,Damaged/Construction,Twilight,Rainy,Severe,Severe,59.0
+July,Sunday,Unknown,Truck,Unidentified,4,Unknown,Unknown,Wet,Daylight,Rainy,Minor,Minor,27.0
+August,Wednesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Daylight,Rainy,Minor,Minor,7.000000000000001
+May,Thursday,Unknown,Truck,Unidentified,3,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,18.0
+May,Tuesday,Delhi,Car,Truck,2,Unknown,31-50,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Monday,Andhra Pradesh,Van,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Wednesday,Unknown,Truck,Unidentified,1,Over 51,31-50,Dry,Daylight,Clear,Severe,Minor,27.80956339984575
+July,Monday,Delhi,Pedestrian,Truck,2,Unknown,Under 18,Wet,Dark,Clear,Severe,Severe,98.0
+July,Saturday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Daylight,Rainy,Minor,Minor,2.0
+November,Saturday,Uttar Pradesh,Two Wheeler,Truck,2,Unknown,31-50,Dry,Dark,Clear,Severe,Severe,99.0
+August,Thursday,Unknown,Truck,Unidentified,1,31-50,31-50,Wet,Dark,Rainy,Minor,Severe,61.0
+October,Tuesday,Tamil Nadu,Car,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,99.0
+November,Monday,Assam,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+May,Monday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Daylight,Clear,Severe,Minor,13.329359513791491
+May,Wednesday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,24.305194805194805
+March,Saturday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,4.090909090909091
+May,Saturday,Unknown,Truck,Unidentified,1,31-50,18-30,Dry,Dark,Clear,Minor,Minor,21.0
+April,Friday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,0.0
+April,Thursday,Unknown,Truck,Unidentified,2,Over 51,31-50,Dry,Daylight,Clear,Severe,Minor,10.0
+December,Saturday,Chhattisgarh,Bus,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+August,Thursday,Maharashtra,Two Wheeler,Truck,2,Unknown,31-50,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Thursday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Severe,64.0
+April,Saturday,Unknown,Truck,Unidentified,1,18-30,Under 18,Dry,Daylight,Clear,Minor,Minor,4.230769230769231
+May,Friday,Unknown,Truck,Unidentified,3,Over 51,18-30,Wet,Dark,Clear,Minor,Minor,7.000000000000001
+March,Wednesday,Unknown,Truck,Unidentified,3,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,1.230679156908665
+August,Tuesday,West Bengal,Bicycle,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,83.0
+May,Tuesday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,2.2030442675603963
+June,Monday,Unknown,Truck,Unidentified,3,18-30,18-30,Wet,Daylight,Rainy,Minor,Minor,14.000000000000002
+May,Friday,Unknown,Truck,Unidentified,2,31-50,Over 51,Dry,Dark,Clear,Minor,Minor,12.166666666666666
+August,Saturday,Rajasthan,Truck,Unidentified,2,Unknown,Unknown,Wet,Dark,Clear,Severe,Severe,89.0
+March,Saturday,Unknown,Truck,Unidentified,2,Unknown,31-50,Dry,Daylight,Clear,Minor,Minor,7.039189976689977
+April,Monday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Dark,Clear,Minor,Minor,16.095238095238095
+February,Thursday,Bihar,Truck,Unidentified,1,18-30,Unknown,Damaged/Construction,Twilight,Fog/Mist,Minor,Severe,82.0
+December,Saturday,West Bengal,Pedestrian,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Monday,Rajasthan,Bicycle,Truck,2,Unknown,Over 51,Dry,Dark,Clear,Severe,Severe,100.0
+May,Tuesday,Unknown,Truck,Unidentified,1,Over 51,18-30,Wet,Daylight,Clear,Severe,Minor,8.321678321678322
+October,Sunday,Unknown,Truck,Unidentified,2,Under 18,Unknown,Dry,Daylight,Clear,Minor,Minor,6.321678321678322
+April,Thursday,Unknown,Truck,Unidentified,3,31-50,Under 18,Dry,Daylight,Clear,Minor,Minor,7.090909090909091
+May,Monday,Unknown,Truck,Unidentified,1,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,14.130434782608695
+October,Tuesday,West Bengal,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,80.0
+January,Thursday,Maharashtra,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+October,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Severe,Minor,3.1101190476190474
+May,Wednesday,Unknown,Truck,Unidentified,3,31-50,Unknown,Wet,Dark,Clear,Severe,Minor,6.0476190476190474
+May,Thursday,Unknown,Truck,Unidentified,1,Under 18,Unknown,Wet,Dark,Clear,Severe,Minor,22.321678321678323
+March,Saturday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Dark,Clear,Minor,Minor,11.0
+March,Tuesday,Maharashtra,Pedestrian,Truck,2,Unknown,Under 18,Wet,Dark,Clear,Severe,Severe,100.0
+May,Thursday,Unknown,Truck,Unidentified,2,Over 51,18-30,Dry,Daylight,Clear,Severe,Minor,0.0
+March,Tuesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.23076923076923078
+January,Saturday,Unknown,Bus,Unidentified,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,95.0
+March,Thursday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.17078620304426756
+March,Wednesday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Dark,Clear,Minor,Minor,7.401013620525815
+October,Monday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,11.396103896103895
+March,Sunday,Unknown,Truck,Unidentified,2,Unknown,18-30,Dry,Daylight,Clear,Minor,Minor,6.0
+March,Friday,Unknown,Truck,Unidentified,2,Unknown,Under 18,Dry,Daylight,Clear,Minor,Minor,5.064012490241998
+April,Friday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Dark,Clear,Minor,Minor,9.0
+April,Friday,Unknown,Truck,Unidentified,2,Unknown,18-30,Dry,Daylight,Clear,Minor,Minor,27.0
+March,Friday,Jharkhand,Truck,Unidentified,3,18-30,Unknown,Wet,Daylight,Clear,Minor,Severe,66.0
+March,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Dark,Clear,Severe,Minor,15.0
+September,Saturday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Rainy,Minor,Severe,71.0
+June,Sunday,Odisha,Truck,Unidentified,1,18-30,Unknown,Damaged/Construction,Twilight,Fog/Mist,Severe,Severe,67.0
+August,Wednesday,Rajasthan,Truck,Van,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,70.0
+April,Saturday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,5.0
+March,Saturday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,1.0
+May,Monday,Uttar Pradesh,Car,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+May,Wednesday,Unknown,Truck,Unidentified,2,18-30,Under 18,Dry,Dark,Clear,Minor,Minor,3.0
+May,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,1.0
+October,Monday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Clear,Minor,Minor,12.0
+June,Friday,Assam,Truck,Unidentified,3,Over 51,Unknown,Damaged/Construction,Dark,Clear,Minor,Severe,81.0
+September,Friday,Meghalaya,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Rainy,Severe,Severe,61.0
+August,Saturday,Unknown,Truck,Unidentified,2,18-30,31-50,Wet,Dark,Rainy,Minor,Minor,13.0
+March,Friday,Unknown,Truck,Unidentified,1,Unknown,31-50,Dry,Daylight,Clear,Severe,Minor,13.095238095238097
+May,Monday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,5.452113104287017
+October,Tuesday,Unknown,Truck,Unidentified,3,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,12.178053830227743
+August,Tuesday,Madhya Pradesh,Auto Rickshaw,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+February,Wednesday,Tamil Nadu,Truck,Car,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,96.0
+June,Thursday,Madhya Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+January,Monday,Rajasthan,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+April,Wednesday,Unknown,Truck,Unidentified,1,31-50,Over 51,Dry,Daylight,Clear,Minor,Minor,42.0
+October,Thursday,Maharashtra,Truck,Canal,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,97.0
+July,Wednesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Daylight,Rainy,Minor,Minor,1.0
+October,Tuesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,25.09090909090909
+November,Saturday,Rajasthan,Suv,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+April,Tuesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,7.000000000000001
+January,Saturday,Uttar Pradesh,Two Wheeler,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,99.0
+October,Wednesday,Unknown,Truck,Unidentified,6,Over 51,Unknown,Dry,Dark,Clear,Minor,Minor,43.04761904761905
+April,Wednesday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Dark,Clear,Minor,Minor,21.305194805194805
+July,Wednesday,Unknown,Truck,Unidentified,3,31-50,Over 51,Wet,Daylight,Rainy,Minor,Minor,40.230769230769226
+June,Tuesday,Haryana,Truck,Unidentified,5,18-30,Unknown,Damaged/Construction,Twilight,Fog/Mist,Severe,Minor,37.0
+February,Monday,Jammu and Kashmir,Truck,Unidentified,2,18-30,Unknown,Damaged/Construction,Twilight,Clear,Severe,Severe,66.0
+August,Saturday,Unknown,Truck,Unidentified,2,Over 51,18-30,Wet,Daylight,Rainy,Minor,Minor,7.000000000000001
+September,Monday,Unknown,Truck,Unidentified,2,31-50,18-30,Wet,Daylight,Rainy,Minor,Minor,3.0
+June,Friday,Unknown,Truck,Unidentified,1,Under 18,31-50,Wet,Daylight,Rainy,Minor,Minor,14.000000000000002
+August,Monday,Unknown,Truck,Unidentified,2,31-50,Under 18,Wet,Daylight,Rainy,Minor,Minor,3.0
+July,Tuesday,Unknown,Truck,Unidentified,2,Over 51,18-30,Wet,Daylight,Rainy,Severe,Minor,2.0
+May,Wednesday,Unknown,Bus,Unidentified,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,98.0
+October,Tuesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,17.670786203044266
+December,Monday,Maharashtra,Pedestrian,Truck,2,Unknown,Under 18,Dry,Daylight,Clear,Severe,Severe,100.0
+March,Friday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,1.0
+October,Thursday,Unknown,Truck,Unidentified,3,Under 18,Unknown,Dry,Daylight,Clear,Minor,Minor,18.748857135035998
+August,Sunday,Unknown,Truck,Unidentified,2,Unknown,Over 51,Dry,Dark,Rainy,Minor,Minor,11.0
+May,Saturday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Dark,Clear,Severe,Minor,1.0
+April,Monday,Unknown,Truck,Car,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,96.0
+December,Wednesday,Maharashtra,Truck,Unidentified,3,31-50,Unknown,Wet,Twilight,Rainy,Severe,Severe,59.0
+September,Friday,Maharashtra,Bus,Truck,2,Unknown,31-50,Wet,Daylight,Clear,Severe,Severe,99.0
+March,Wednesday,Unknown,Truck,Unidentified,2,31-50,31-50,Wet,Dark,Clear,Severe,Minor,14.138528138528136
+December,Sunday,Madhya Pradesh,Pedestrian,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+February,Monday,Unknown,Bus,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+May,Sunday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Daylight,Clear,Minor,Minor,12.0
+September,Wednesday,Haryana,Truck,Unidentified,2,Over 51,Unknown,Dry,Twilight,Rainy,Severe,Minor,50.0
+March,Wednesday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,14.595005247756673
+October,Tuesday,Uttar Pradesh,Pedestrian,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+May,Monday,Unknown,Truck,Unidentified,2,Over 51,Under 18,Dry,Daylight,Clear,Minor,Minor,26.25757575757576
+May,Saturday,Unknown,Truck,Unidentified,1,Under 18,18-30,Wet,Dark,Clear,Minor,Minor,27.166666666666668
+November,Saturday,Maharashtra,Two Wheeler,Truck,2,Unknown,Over 51,Dry,Daylight,Clear,Severe,Severe,100.0
+July,Wednesday,Maharashtra,Bus,Unidentified,2,Unknown,Under 18,Dry,Daylight,Clear,Severe,Severe,83.0
+June,Monday,Unknown,Truck,Unidentified,2,18-30,31-50,Wet,Dark,Rainy,Minor,Minor,2.0
+April,Saturday,Gujarat,Two Wheeler,Truck,2,Unknown,Under 18,Wet,Daylight,Clear,Severe,Severe,100.0
+October,Thursday,Rajasthan,Truck,Car,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,97.0
+April,Wednesday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,1.291111467275509
+January,Monday,Maharashtra,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+September,Thursday,Bihar,Pedestrian,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+April,Tuesday,Unknown,Truck,Unidentified,1,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,10.047619047619047
+April,Tuesday,Unknown,Truck,Unidentified,1,Over 51,Unknown,Dry,Dark,Clear,Minor,Minor,48.0
+April,Tuesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Clear,Minor,Minor,10.050493919357873
+August,Tuesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Rainy,Minor,Minor,9.0
+October,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,3.1101190476190474
+October,Thursday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,13.20172011492344
+May,Sunday,Unknown,Truck,Unidentified,4,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,26.0
+October,Saturday,Maharashtra,Bus,Truck,2,Unknown,Unknown,Wet,Dark,Clear,Severe,Severe,100.0
+April,Monday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,1.0
+September,Monday,Unknown,Truck,Unidentified,2,31-50,Under 18,Wet,Dark,Rainy,Minor,Minor,2.0
+April,Sunday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Dark,Clear,Minor,Minor,11.0
+August,Thursday,Unknown,Truck,Unidentified,2,Under 18,31-50,Wet,Daylight,Rainy,Severe,Minor,13.0
+April,Saturday,Unknown,Truck,Unidentified,2,31-50,Under 18,Wet,Dark,Clear,Minor,Minor,24.0
+August,Friday,Telangana,Suv,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+March,Thursday,Unknown,Truck,Unidentified,2,18-30,Over 51,Dry,Daylight,Clear,Minor,Minor,1.0
+May,Tuesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.0
+April,Monday,Unknown,Truck,Unidentified,4,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,3.2689629211368336
+October,Monday,Punjab,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+September,Friday,Karnataka,Two Wheeler,Truck,2,Unknown,18-30,Wet,Daylight,Clear,Severe,Severe,100.0
+October,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Clear,Severe,Minor,12.593073593073594
+April,Tuesday,Unknown,Truck,Unidentified,2,Over 51,18-30,Dry,Daylight,Clear,Minor,Minor,6.424242424242426
+April,Wednesday,Unknown,Truck,Unidentified,1,Unknown,18-30,Dry,Daylight,Clear,Minor,Minor,18.0
+April,Monday,Uttar Pradesh,Two Wheeler,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+October,Friday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,5.159903078340005
+May,Monday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Dark,Clear,Severe,Minor,0.09090909090909091
+April,Saturday,Unknown,Truck,Unidentified,2,Over 51,31-50,Dry,Daylight,Clear,Severe,Minor,12.23076923076923
+October,Monday,Unknown,Truck,Unidentified,2,Under 18,Over 51,Dry,Daylight,Clear,Minor,Minor,0.0
+May,Friday,Unknown,Truck,Unidentified,3,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,8.646083083583083
+July,Monday,Chhattisgarh,Truck,Unidentified,2,Over 51,Unknown,Wet,Daylight,Fog/Mist,Severe,Severe,67.0
+April,Tuesday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,21.0
+April,Monday,Unknown,Truck,Unidentified,2,Under 18,Unknown,Dry,Daylight,Clear,Severe,Minor,5.0
+June,Wednesday,Uttarakhand,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Friday,Unknown,Truck,Unidentified,2,Over 51,18-30,Wet,Dark,Clear,Minor,Minor,7.000000000000001
+April,Wednesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.047619047619047616
+February,Tuesday,Unknown,Truck,Car,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,89.0
+May,Thursday,Unknown,Truck,Unidentified,2,18-30,Under 18,Dry,Dark,Clear,Minor,Minor,6.0
+January,Monday,Kerala,Truck,Two_Wheeler,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,77.0
+April,Wednesday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Dark,Clear,Severe,Minor,22.0
+May,Sunday,Unknown,Truck,Unidentified,2,Over 51,Unknown,Dry,Daylight,Clear,Minor,Minor,12.655011655011657
+March,Wednesday,Uttar Pradesh,Car,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+July,Thursday,Jharkhand,Truck,Unidentified,4,Over 51,Unknown,Damaged/Construction,Twilight,Fog/Mist,Severe,Severe,59.0
+September,Sunday,Nagaland,Truck,Unidentified,2,Over 51,Unknown,Dry,Dark,Rainy,Severe,Severe,74.0
+October,Tuesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,18.0
+September,Saturday,Maharashtra,Truck,Truck,2,Unknown,31-50,Wet,Dark,Clear,Severe,Severe,99.0
+October,Wednesday,Kerala,Truck,Unidentified,2,Over 51,Unknown,Dry,Twilight,Fog/Mist,Severe,Severe,60.0
+March,Thursday,Maharashtra,Truck,Unidentified,1,18-30,Unknown,Dry,Dark,Fog/Mist,Severe,Severe,72.0
+February,Friday,West Bengal,Two Wheeler,Truck,2,Unknown,Under 18,Dry,Daylight,Clear,Severe,Severe,99.0
+January,Tuesday,Nagaland,Truck,Unidentified,4,31-50,Unknown,Dry,Daylight,Fog/Mist,Severe,Severe,62.0
+April,Monday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Severe,Minor,33.03575456801263
+October,Saturday,Unknown,Truck,Unidentified,2,Unknown,18-30,Dry,Dark,Clear,Severe,Minor,9.0
+October,Thursday,Unknown,Truck,Unidentified,6,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,35.452113104287015
+April,Wednesday,Unknown,Truck,Unidentified,2,31-50,Under 18,Wet,Dark,Clear,Minor,Minor,19.0
+January,Tuesday,Tamil Nadu,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+April,Sunday,Maharashtra,Pedestrian,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+November,Thursday,Rajasthan,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Thursday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Dark,Clear,Minor,Minor,7.000000000000001
+April,Sunday,Unknown,Truck,Unidentified,1,31-50,Under 18,Dry,Daylight,Clear,Minor,Minor,24.0
+April,Wednesday,Tripura,Truck,Unidentified,3,Over 51,Unknown,Wet,Dark,Rainy,Minor,Severe,72.0
+September,Friday,Unknown,Truck,Unidentified,2,31-50,Under 18,Wet,Daylight,Rainy,Severe,Minor,7.000000000000001
+May,Saturday,Telangana,Pedestrian,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+April,Friday,Unknown,Truck,Unidentified,2,Over 51,31-50,Dry,Daylight,Clear,Minor,Minor,23.0
+March,Tuesday,Unknown,Truck,Unidentified,2,Unknown,31-50,Dry,Daylight,Clear,Minor,Minor,3.0
+May,Monday,Unknown,Truck,Unidentified,2,Over 51,Unknown,Dry,Daylight,Clear,Minor,Minor,9.185619409053945
+September,Monday,Unknown,Truck,Unidentified,2,18-30,31-50,Wet,Daylight,Rainy,Minor,Minor,22.0
+May,Friday,Unknown,Truck,Unidentified,2,31-50,Under 18,Dry,Daylight,Clear,Minor,Minor,4.0
+March,Saturday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,3.230769230769231
+September,Sunday,Unknown,Truck,Unidentified,2,31-50,31-50,Wet,Daylight,Rainy,Minor,Minor,0.44505494505494503
+May,Saturday,Unknown,Truck,Unidentified,2,18-30,Under 18,Dry,Daylight,Clear,Severe,Minor,4.553219439398301
+April,Thursday,Karnataka,Two Wheeler,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+May,Sunday,Unknown,Truck,Unidentified,1,31-50,Under 18,Wet,Dark,Clear,Severe,Minor,19.0
+August,Wednesday,Unknown,Truck,Unidentified,2,Under 18,Unknown,Wet,Dark,Rainy,Minor,Minor,3.0
+June,Tuesday,Odisha,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+January,Tuesday,Rajasthan,Truck,Car,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,93.0
+November,Saturday,Unknown,Truck,Unidentified,3,Over 51,Unknown,Wet,Daylight,Cold,Minor,Minor,16.0
+October,Tuesday,Unknown,Truck,Unidentified,1,Under 18,Unknown,Wet,Dark,Clear,Minor,Minor,19.23076923076923
+July,Thursday,Delhi,Truck,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+June,Wednesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Dark,Rainy,Minor,Minor,1.0
+July,Wednesday,Himachal Pradesh,Truck,Gorge,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+May,Wednesday,Bihar,Pedestrian,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+May,Saturday,Unknown,Truck,Unidentified,3,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,8.0
+August,Sunday,Madhya Pradesh,Truck,Unidentified,3,31-50,Unknown,Wet,Twilight,Rainy,Severe,Minor,45.0
+March,Wednesday,Kerala,Truck,Unidentified,4,Over 51,Unknown,Dry,Twilight,Rainy,Severe,Severe,80.0
+November,Friday,Uttar Pradesh,Truck,Unidentified,2,Over 51,Unknown,Damaged/Construction,Daylight,Clear,Severe,Minor,36.0
+April,Monday,Tamil Nadu,Truck,Unidentified,4,18-30,Unknown,Dry,Daylight,Rainy,Minor,Severe,65.0
+May,Friday,Unknown,Truck,Unidentified,2,Unknown,31-50,Dry,Daylight,Clear,Severe,Minor,15.0
+February,Saturday,Maharashtra,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+May,Sunday,Andhra Pradesh,Two Wheeler,Truck,2,Unknown,31-50,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Wednesday,Unknown,Truck,Unidentified,3,18-30,31-50,Dry,Daylight,Clear,Severe,Minor,29.77741146184344
+March,Thursday,Punjab,Truck,Unidentified,5,31-50,Unknown,Damaged/Construction,Daylight,Fog/Mist,Severe,Severe,64.0
+October,Thursday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,2.214285714285714
+October,Monday,Maharashtra,Pedestrian,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+October,Wednesday,Unknown,Truck,Unidentified,2,31-50,Under 18,Dry,Daylight,Clear,Minor,Minor,12.0
+April,Thursday,Gujarat,Truck,Unidentified,5,18-30,Unknown,Wet,Daylight,Fog/Mist,Minor,Minor,49.0
+March,Tuesday,Unknown,Truck,Unidentified,1,31-50,Under 18,Dry,Daylight,Clear,Minor,Minor,16.0
+June,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Daylight,Rainy,Minor,Minor,2.0
+July,Wednesday,Telangana,Car,Truck,2,Unknown,Unknown,Wet,Dark,Clear,Severe,Severe,100.0
+October,Tuesday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Severe,61.18181818181818
+September,Monday,Unknown,Truck,Unidentified,2,Over 51,31-50,Wet,Dark,Rainy,Minor,Minor,11.0
+April,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Daylight,Clear,Minor,Minor,3.0
+June,Wednesday,Haryana,Two Wheeler,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Thursday,Unknown,Truck,Unidentified,2,18-30,Over 51,Dry,Daylight,Clear,Minor,Minor,10.0
+July,Thursday,Puducherry,Truck,Unidentified,2,18-30,Unknown,Damaged/Construction,Twilight,Fog/Mist,Severe,Severe,56.99999999999999
+April,Sunday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,12.687269719527785
+May,Saturday,Unknown,Truck,Unidentified,3,Over 51,Unknown,Dry,Daylight,Clear,Minor,Minor,36.0
+March,Saturday,Unknown,Truck,Unidentified,2,31-50,Under 18,Dry,Daylight,Clear,Minor,Minor,12.835497835497838
+May,Friday,Unknown,Truck,Unidentified,3,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,3.0
+April,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Dark,Clear,Minor,Minor,9.09090909090909
+March,Friday,Unknown,Truck,Unidentified,2,18-30,18-30,Wet,Dark,Clear,Minor,Minor,13.511177695609675
+January,Sunday,Tamil Nadu,Car,Truck,2,Unknown,31-50,Dry,Dark,Clear,Severe,Severe,100.0
+May,Saturday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,13.0
+June,Saturday,Tamil Nadu,Suv,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+March,Saturday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Dark,Clear,Minor,Minor,2.0
+April,Wednesday,Unknown,Truck,Unidentified,3,Under 18,18-30,Dry,Daylight,Clear,Minor,Minor,36.09090909090909
+April,Wednesday,Unknown,Truck,Unidentified,4,Under 18,31-50,Dry,Daylight,Clear,Minor,Minor,23.0
+October,Sunday,Unknown,Truck,Unidentified,2,Under 18,Over 51,Dry,Daylight,Clear,Minor,Minor,4.0
+May,Friday,Unknown,Truck,Two_Wheeler,2,Unknown,Unknown,Dry,Dark,Clear,Minor,Severe,55.00000000000001
+August,Wednesday,Unknown,Bus,Unidentified,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,79.0
+May,Friday,Unknown,Truck,Unidentified,1,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.024390243902439025
+May,Monday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,4.572465088368509
+March,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Dark,Clear,Minor,Minor,14.11914830841857
+February,Friday,Gujarat,Pedestrian,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+August,Thursday,Chandigarh,Truck,Unidentified,3,31-50,Unknown,Dry,Twilight,Clear,Severe,Severe,61.0
+May,Wednesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Dark,Clear,Minor,Minor,2.3051948051948052
+August,Monday,Bihar,Truck,Unidentified,1,18-30,Unknown,Damaged/Construction,Twilight,Fog/Mist,Severe,Severe,62.0
+April,Saturday,Uttarakhand,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Rainy,Minor,Severe,79.0
+May,Friday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,0.0
+July,Monday,Madhya Pradesh,Truck,Truck,2,Unknown,31-50,Wet,Daylight,Clear,Severe,Severe,100.0
+February,Tuesday,Tamil Nadu,Van,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+July,Tuesday,Punjab,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+October,Thursday,Unknown,Truck,Unidentified,2,18-30,Over 51,Dry,Daylight,Clear,Severe,Minor,7.1818181818181825
+May,Tuesday,Haryana,Suv,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+March,Monday,Unknown,Truck,Unidentified,2,Unknown,18-30,Dry,Daylight,Clear,Minor,Minor,8.0
+October,Wednesday,Unknown,Truck,Unidentified,1,18-30,31-50,Dry,Dark,Clear,Severe,Minor,24.0
+January,Tuesday,West Bengal,Truck,Unidentified,4,18-30,Unknown,Dry,Twilight,Fog/Mist,Severe,Severe,75.0
+May,Friday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,31.696969696969695
+December,Monday,Uttar Pradesh,Truck,Unidentified,2,Unknown,Unknown,Wet,Daylight,Clear,Minor,Severe,54.0
+December,Wednesday,Karnataka,Truck,Unidentified,1,Over 51,Unknown,Damaged/Construction,Twilight,Rainy,Minor,Minor,38.0
+June,Friday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Daylight,Rainy,Minor,Minor,0.0
+April,Thursday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,2.090909090909091
+October,Thursday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,3.166666666666666
+April,Wednesday,Punjab,Pedestrian,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+June,Thursday,Unknown,Truck,Unidentified,2,31-50,18-30,Wet,Daylight,Rainy,Minor,Minor,0.0
+April,Friday,Unknown,Truck,Unidentified,2,Under 18,31-50,Dry,Daylight,Clear,Minor,Minor,7.000000000000001
+August,Friday,Madhya Pradesh,Pedestrian,Truck,2,Unknown,Under 18,Dry,Dark,Clear,Severe,Severe,100.0
+December,Tuesday,Maharashtra,Two Wheeler,Truck,2,Unknown,18-30,Dry,Dark,Clear,Severe,Severe,100.0
+March,Monday,Unknown,Truck,Unidentified,2,Under 18,Unknown,Dry,Daylight,Clear,Minor,Minor,10.0
+April,Friday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,2.090909090909091
+February,Monday,Uttar Pradesh,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Fog/Mist,Severe,Severe,56.00000000000001
+May,Thursday,Unknown,Truck,Unidentified,2,Over 51,31-50,Dry,Daylight,Clear,Minor,Minor,6.0
+March,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,18.76456876456876
+April,Monday,Unknown,Truck,Unidentified,3,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,2.0
+August,Saturday,Jammu and Kashmir,Truck,Unidentified,1,18-30,Unknown,Wet,Dark,Fog/Mist,Minor,Severe,63.0
+April,Monday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Daylight,Clear,Severe,Minor,5.230769230769231
+October,Friday,Unknown,Truck,Unidentified,2,18-30,Over 51,Dry,Dark,Clear,Minor,Minor,33.0
+April,Sunday,Unknown,Truck,Unidentified,2,31-50,31-50,Wet,Dark,Clear,Severe,Minor,23.0
+March,Monday,Unknown,Truck,Unidentified,2,Under 18,Under 18,Dry,Daylight,Clear,Minor,Minor,2.0
+April,Thursday,Unknown,Truck,Unidentified,2,18-30,18-30,Wet,Daylight,Clear,Severe,Minor,3.0
+December,Sunday,Jharkhand,Car,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,99.0
+February,Tuesday,Madhya Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+March,Thursday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,8.0
+September,Monday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Rainy,Minor,Minor,0.0
+January,Saturday,Chhattisgarh,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+October,Friday,Unknown,Truck,Unidentified,3,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,14.380204502136479
+June,Thursday,Maharashtra,Car,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,99.0
+May,Sunday,Unknown,Truck,Unidentified,2,18-30,18-30,Wet,Dark,Clear,Minor,Minor,3.0
+March,Sunday,Unknown,Truck,Unidentified,1,31-50,18-30,Dry,Daylight,Clear,Severe,Minor,4.0
+October,Monday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,11.166666666666666
+February,Monday,Goa,Truck,Unidentified,4,Over 51,Unknown,Damaged/Construction,Dark,Fog/Mist,Minor,Severe,71.0
+April,Friday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Dark,Clear,Minor,Minor,0.0
+April,Friday,Unknown,Truck,Unidentified,3,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,20.26046738441549
+March,Friday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Severe,Minor,6.851981351981353
+January,Friday,West Bengal,Truck,Unidentified,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,93.0
+May,Thursday,Unknown,Truck,Unidentified,1,18-30,Unknown,Wet,Dark,Clear,Severe,Minor,26.32167832167832
+April,Friday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.0
+March,Saturday,Unknown,Truck,Unidentified,2,18-30,Under 18,Dry,Dark,Clear,Minor,Minor,7.000000000000001
+November,Wednesday,Andhra Pradesh,Truck,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+October,Friday,Unknown,Truck,Unidentified,1,Under 18,31-50,Dry,Dark,Clear,Severe,Minor,46.0
+October,Friday,Unknown,Truck,Unidentified,2,31-50,Under 18,Dry,Daylight,Clear,Minor,Minor,1.1818181818181817
+March,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,18.76456876456876
+October,Tuesday,Mizoram,Truck,Unidentified,1,Over 51,Unknown,Dry,Twilight,Clear,Severe,Severe,70.0
+August,Wednesday,Meghalaya,Truck,Unidentified,5,Over 51,Unknown,Dry,Twilight,Rainy,Minor,Minor,39.0
+October,Tuesday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,2.090909090909091
+May,Saturday,Unknown,Truck,Unidentified,2,Over 51,18-30,Dry,Daylight,Clear,Minor,Minor,24.0
+August,Thursday,Unknown,Truck,Unidentified,2,31-50,31-50,Wet,Daylight,Rainy,Minor,Minor,3.0
+October,Tuesday,Unknown,Truck,Unidentified,2,Unknown,18-30,Dry,Dark,Clear,Minor,Minor,15.0
+May,Tuesday,Unknown,Truck,Unidentified,2,31-50,Under 18,Dry,Daylight,Clear,Severe,Minor,28.52137445887446
+September,Tuesday,Assam,Suv,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+May,Monday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Severe,Minor,2.0
+March,Monday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,12.178053830227743
+October,Wednesday,Unknown,Truck,Unidentified,2,Under 18,31-50,Dry,Daylight,Clear,Minor,Minor,5.181818181818182
+August,Sunday,Unknown,Truck,Unidentified,2,31-50,18-30,Wet,Dark,Rainy,Minor,Minor,5.0
+October,Monday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Daylight,Clear,Minor,Minor,16.44025974025974
+March,Tuesday,Unknown,Truck,Unidentified,1,Over 51,Unknown,Dry,Daylight,Clear,Severe,Minor,11.0
+April,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,5.0
+March,Tuesday,Unknown,Truck,Unidentified,2,31-50,Over 51,Wet,Daylight,Clear,Severe,Minor,11.0
+April,Monday,Unknown,Truck,Unidentified,1,Unknown,Unknown,Dry,Dark,Clear,Minor,Minor,20.607392607392608
+January,Monday,Maharashtra,Car,Truck,2,Unknown,31-50,Wet,Daylight,Clear,Severe,Severe,100.0
+May,Tuesday,Manipur,Truck,Unidentified,5,18-30,Unknown,Wet,Twilight,Fog/Mist,Severe,Severe,56.00000000000001
+March,Sunday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,7.000000000000001
+May,Wednesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,6.0
+November,Tuesday,West Bengal,Truck,Unidentified,4,18-30,Unknown,Damaged/Construction,Twilight,Fog/Mist,Severe,Severe,88.0
+May,Sunday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Severe,63.94890663333862
+June,Saturday,Unknown,Truck,Car,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,71.0
+April,Saturday,Unknown,Truck,Unidentified,4,18-30,Under 18,Dry,Daylight,Clear,Severe,Minor,24.0
+December,Thursday,Tamil Nadu,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+March,Thursday,Madhya Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+November,Sunday,Manipur,Truck,Unidentified,4,31-50,Unknown,Wet,Dark,Rainy,Severe,Minor,50.0
+September,Sunday,Karnataka,Pedestrian,Truck,2,Unknown,Under 18,Wet,Dark,Clear,Severe,Severe,99.0
+May,Tuesday,Unknown,Truck,Unidentified,2,18-30,Over 51,Dry,Daylight,Clear,Minor,Minor,48.0
+October,Saturday,Nagaland,Truck,Unidentified,5,18-30,Unknown,Wet,Dark,Rainy,Severe,Severe,57.99999999999999
+March,Wednesday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,21.9502103288868
+October,Monday,Unknown,Truck,Unidentified,4,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,24.0
+February,Thursday,Bihar,Auto Rickshaw,Truck,2,Unknown,31-50,Dry,Dark,Clear,Severe,Severe,98.0
+March,Sunday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,13.047619047619047
+October,Monday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,25.670163170163168
+May,Sunday,Gujarat,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+August,Thursday,Punjab,Truck,Unidentified,4,31-50,Unknown,Damaged/Construction,Daylight,Rainy,Severe,Severe,72.0
+March,Wednesday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Severe,57.333333333333336
+May,Tuesday,Maharashtra,Auto Rickshaw,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+January,Saturday,Uttar Pradesh,Bus,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,76.0
+April,Friday,Tamil Nadu,Truck,Unidentified,2,31-50,Unknown,Damaged/Construction,Twilight,Rainy,Severe,Severe,54.0
+June,Sunday,Unknown,Truck,Unidentified,2,18-30,Over 51,Wet,Daylight,Rainy,Minor,Minor,21.047619047619047
+July,Friday,Unknown,Truck,Unidentified,2,31-50,18-30,Wet,Daylight,Rainy,Minor,Minor,6.0
+May,Monday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,11.692160661918729
+August,Wednesday,Unknown,Truck,Unidentified,1,Over 51,Unknown,Dry,Daylight,Rainy,Severe,Minor,12.0
+March,Friday,Unknown,Truck,Unidentified,2,Under 18,18-30,Dry,Daylight,Clear,Minor,Minor,18.09090909090909
+March,Saturday,Unknown,Truck,Unidentified,3,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,2.3216783216783217
+October,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Wet,Daylight,Clear,Minor,Minor,1.0
+November,Saturday,West Bengal,Truck,Unidentified,5,31-50,Unknown,Damaged/Construction,Twilight,Fog/Mist,Severe,Severe,69.0
+March,Thursday,Unknown,Truck,Unidentified,2,Under 18,18-30,Wet,Daylight,Clear,Severe,Minor,15.0
+October,Saturday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.22519284712482468
+April,Sunday,Rajasthan,Pedestrian,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+November,Sunday,Unknown,Truck,Car,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,74.0
+April,Sunday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,9.0
+October,Monday,Unknown,Truck,Unidentified,1,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,18.0
+October,Saturday,Unknown,Truck,Unidentified,6,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,45.0
+March,Friday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,28.869381991313965
+December,Monday,West Bengal,Truck,Unidentified,5,18-30,Unknown,Wet,Twilight,Fog/Mist,Severe,Severe,86.0
+March,Tuesday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,3.51875529479249
+May,Friday,Goa,Truck,Unidentified,3,31-50,Unknown,Wet,Twilight,Rainy,Minor,Severe,68.0
+March,Sunday,Unknown,Truck,Unidentified,1,Under 18,Unknown,Wet,Dark,Clear,Minor,Severe,63.0909090909091
+April,Tuesday,Bihar,Truck,Car,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,97.0
+October,Thursday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,38.25757575757576
+September,Wednesday,Haryana,Truck,Unidentified,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,88.0
+September,Monday,Unknown,Truck,Unidentified,2,18-30,18-30,Wet,Daylight,Rainy,Minor,Minor,5.0
+May,Monday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,43.47186147186147
+February,Monday,Uttar Pradesh,Suv,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+October,Friday,Unknown,Truck,Unidentified,1,Over 51,18-30,Dry,Daylight,Clear,Minor,Minor,1.0
+October,Monday,Unknown,Truck,Unidentified,1,Over 51,31-50,Wet,Daylight,Clear,Severe,Minor,20.0
+March,Tuesday,Karnataka,Bus,Truck,2,Unknown,18-30,Wet,Daylight,Clear,Severe,Severe,97.0
+October,Friday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,0.23328620304426756
+April,Tuesday,Uttar Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+January,Saturday,Rajasthan,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+June,Wednesday,Jharkhand,Truck,Unidentified,5,31-50,Unknown,Dry,Daylight,Rainy,Severe,Severe,64.0
+April,Thursday,Unknown,Truck,Unidentified,1,18-30,Under 18,Dry,Daylight,Clear,Minor,Minor,11.115299334811528
+October,Tuesday,Unknown,Truck,Unidentified,3,Under 18,18-30,Dry,Daylight,Clear,Minor,Minor,15.0
+October,Thursday,Unknown,Truck,Unidentified,4,Unknown,18-30,Wet,Dark,Clear,Minor,Minor,21.0
+March,Thursday,Unknown,Truck,Unidentified,3,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,12.0
+February,Monday,Maharashtra,Car,Truck,2,Unknown,31-50,Dry,Dark,Clear,Severe,Severe,100.0
+April,Saturday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,4.0476190476190474
+September,Wednesday,Delhi,Two Wheeler,Truck,2,Unknown,18-30,Dry,Dark,Clear,Severe,Severe,100.0
+April,Monday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Daylight,Clear,Severe,Minor,22.257575757575758
+June,Tuesday,Puducherry,Truck,Unidentified,3,18-30,Unknown,Damaged/Construction,Twilight,Rainy,Severe,Severe,74.0
+April,Tuesday,Unknown,Truck,Unidentified,2,31-50,Under 18,Dry,Dark,Clear,Minor,Minor,4.181818181818182
+March,Thursday,Unknown,Truck,Unidentified,2,Over 51,18-30,Dry,Daylight,Clear,Minor,Minor,5.0
+March,Friday,Unknown,Truck,Car,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,72.0
+June,Monday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Daylight,Rainy,Minor,Minor,1.0
+October,Tuesday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Dark,Clear,Minor,Minor,4.0
+December,Tuesday,Unknown,Truck,Unidentified,2,Under 18,Over 51,Wet,Daylight,Fog/Mist,Minor,Minor,30.0
+September,Sunday,Unknown,Truck,Unidentified,4,31-50,Unknown,Wet,Daylight,Rainy,Minor,Minor,22.0
+September,Wednesday,Karnataka,Pedestrian,Truck,2,Unknown,Under 18,Dry,Daylight,Clear,Severe,Severe,99.0
+October,Thursday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,12.100384960585565
+May,Thursday,Unknown,Truck,Unidentified,2,Unknown,31-50,Dry,Dark,Clear,Minor,Minor,0.0
+July,Sunday,Unknown,Truck,Unidentified,2,18-30,31-50,Wet,Daylight,Rainy,Minor,Minor,2.0384615384615383
+September,Wednesday,Tamil Nadu,Van,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+November,Wednesday,Karnataka,Truck,Unidentified,3,31-50,Unknown,Damaged/Construction,Daylight,Fog/Mist,Severe,Minor,40.0
+July,Saturday,Tripura,Truck,Unidentified,1,31-50,Unknown,Dry,Twilight,Rainy,Severe,Severe,65.0
+May,Tuesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,1.032258064516129
+August,Monday,Unknown,Truck,Unidentified,2,31-50,Over 51,Wet,Dark,Rainy,Minor,Minor,8.0
+September,Sunday,West Bengal,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,94.0
+May,Saturday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,14.333333333333334
+May,Tuesday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Severe,64.07792207792207
+May,Monday,Unknown,Truck,Unidentified,2,18-30,Under 18,Dry,Daylight,Clear,Minor,Minor,25.253436088634295
+September,Wednesday,Rajasthan,Car,Truck,2,Unknown,Under 18,Dry,Dark,Clear,Severe,Severe,99.0
+March,Saturday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,3.230769230769231
+June,Saturday,Punjab,Truck,Unidentified,1,31-50,Unknown,Damaged/Construction,Twilight,Rainy,Minor,Severe,77.0
+August,Friday,Karnataka,Truck,Unidentified,5,18-30,Unknown,Damaged/Construction,Twilight,Clear,Severe,Severe,63.0
+April,Friday,Unknown,Truck,Unidentified,2,31-50,Over 51,Dry,Daylight,Clear,Severe,Minor,22.15340909090909
+October,Tuesday,Unknown,Truck,Unidentified,1,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,35.43589743589744
+October,Wednesday,Chhattisgarh,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+October,Tuesday,Unknown,Truck,Unidentified,1,Over 51,Under 18,Dry,Daylight,Clear,Minor,Minor,11.09090909090909
+July,Monday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Daylight,Rainy,Minor,Minor,0.0
+May,Monday,Unknown,Truck,Unidentified,1,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,34.0
+May,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,1.0
+June,Wednesday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Daylight,Rainy,Severe,Minor,7.000000000000001
+April,Saturday,Uttar Pradesh,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+February,Wednesday,Karnataka,Truck,Unidentified,3,31-50,Unknown,Damaged/Construction,Dark,Rainy,Minor,Severe,65.0
+July,Tuesday,Unknown,Truck,Unidentified,3,31-50,Under 18,Wet,Dark,Rainy,Minor,Minor,28.000000000000004
+May,Thursday,Unknown,Truck,Unidentified,2,31-50,31-50,Wet,Dark,Clear,Minor,Minor,1.0
+March,Monday,Unknown,Truck,Unidentified,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Minor,5.0
+April,Monday,Unknown,Truck,Unidentified,2,Unknown,18-30,Dry,Daylight,Clear,Minor,Minor,22.0
+May,Thursday,Unknown,Truck,Unidentified,1,31-50,18-30,Dry,Daylight,Clear,Severe,Minor,12.09090909090909
+April,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,5.032258064516129
+June,Tuesday,Unknown,Truck,Unidentified,1,Unknown,Unknown,Wet,Daylight,Rainy,Severe,Minor,7.000000000000001
+August,Monday,West Bengal,Pedestrian,Truck,2,Unknown,31-50,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Monday,Unknown,Truck,Unidentified,2,Under 18,18-30,Dry,Daylight,Clear,Minor,Minor,8.0
+March,Saturday,Rajasthan,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+August,Tuesday,Jharkhand,Pedestrian,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+September,Sunday,Tamil Nadu,Bus,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,99.0
+April,Saturday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,5.0
+October,Saturday,Rajasthan,Truck,Unidentified,4,31-50,Unknown,Dry,Daylight,Fog/Mist,Severe,Severe,76.0
+August,Wednesday,Maharashtra,Bus,Truck,2,Unknown,Unknown,Wet,Dark,Clear,Severe,Severe,100.0
+October,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,23.387968973522966
+January,Sunday,Karnataka,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+May,Friday,Unknown,Truck,Unidentified,2,Under 18,Under 18,Dry,Dark,Clear,Minor,Minor,3.0
+October,Thursday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,2.214285714285714
+May,Tuesday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,6.321678321678322
+April,Wednesday,Unknown,Truck,Unidentified,2,18-30,31-50,Wet,Dark,Clear,Severe,Minor,2.12316715542522
+April,Friday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,9.12316715542522
+August,Thursday,Unknown,Bus,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,88.0
+October,Friday,Madhya Pradesh,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Clear,Severe,Severe,69.0
+June,Sunday,Arunachal Pradesh,Truck,Unidentified,5,31-50,Unknown,Dry,Dark,Fog/Mist,Severe,Severe,68.0
+October,Tuesday,Unknown,Truck,Unidentified,1,Under 18,18-30,Dry,Dark,Clear,Minor,Severe,54.27838827838829
+September,Friday,Kerala,Truck,Unidentified,5,Over 51,Unknown,Wet,Twilight,Fog/Mist,Severe,Severe,72.0
+May,Wednesday,Unknown,Truck,Unidentified,3,31-50,Under 18,Dry,Daylight,Clear,Minor,Minor,23.0
+July,Monday,Uttar Pradesh,Auto Rickshaw,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+March,Monday,Unknown,Truck,Unidentified,2,18-30,Under 18,Wet,Dark,Clear,Minor,Minor,19.221343873517785
+May,Monday,Unknown,Truck,Unidentified,3,31-50,18-30,Dry,Dark,Clear,Minor,Minor,17.0
+October,Friday,Unknown,Truck,Unidentified,3,18-30,Under 18,Dry,Daylight,Clear,Minor,Minor,18.0
+June,Monday,Punjab,Truck,Unidentified,4,Over 51,Unknown,Dry,Twilight,Rainy,Severe,Severe,68.0
+April,Thursday,Unknown,Truck,Unidentified,1,Over 51,18-30,Dry,Daylight,Clear,Severe,Minor,18.0
+April,Thursday,Unknown,Truck,Unidentified,2,Under 18,18-30,Dry,Daylight,Clear,Minor,Minor,18.0
+January,Thursday,Andhra Pradesh,Car,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,99.0
+March,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,2.4242424242424243
+March,Monday,Unknown,Truck,Unidentified,2,31-50,Under 18,Dry,Daylight,Clear,Minor,Minor,6.0
+May,Friday,Chhattisgarh,Truck,Unidentified,5,Over 51,Unknown,Damaged/Construction,Twilight,Rainy,Minor,Minor,46.0
+October,Wednesday,Unknown,Truck,Unidentified,1,Over 51,Unknown,Dry,Daylight,Clear,Minor,Minor,0.0
+March,Tuesday,Unknown,Truck,Unidentified,3,Over 51,Under 18,Dry,Daylight,Clear,Minor,Minor,17.0
+October,Thursday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,45.0
+November,Wednesday,Goa,Two Wheeler,Truck,2,Unknown,18-30,Wet,Dark,Clear,Severe,Severe,100.0
+October,Monday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,2.0
+March,Saturday,Unknown,Truck,Unidentified,3,Over 51,18-30,Wet,Daylight,Clear,Minor,Minor,15.0
+April,Thursday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,1.333479050169092
+April,Tuesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Severe,Minor,7.000000000000001
+March,Wednesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,10.0
+December,Monday,Manipur,Truck,Unidentified,3,Over 51,Unknown,Damaged/Construction,Twilight,Fog/Mist,Severe,Severe,60.0
+July,Saturday,Unknown,Truck,Unidentified,2,Under 18,Over 51,Wet,Dark,Rainy,Minor,Minor,24.0
+June,Wednesday,Puducherry,Truck,Unidentified,1,Over 51,Unknown,Wet,Twilight,Rainy,Minor,Severe,59.0
+May,Thursday,Unknown,Truck,Unidentified,2,Unknown,31-50,Wet,Dark,Clear,Minor,Minor,18.0
+October,Monday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,25.0
+August,Friday,Unknown,Truck,Unidentified,1,31-50,31-50,Wet,Daylight,Rainy,Minor,Minor,19.047619047619047
+May,Tuesday,Unknown,Truck,Unidentified,1,18-30,18-30,Dry,Dark,Clear,Minor,Severe,52.65126337077557
+April,Monday,Unknown,Truck,Unidentified,2,Under 18,Unknown,Dry,Daylight,Clear,Minor,Minor,12.12316715542522
+October,Sunday,Unknown,Truck,Unidentified,2,31-50,Under 18,Dry,Dark,Clear,Minor,Minor,6.261904761904762
+July,Monday,Unknown,Truck,Unidentified,2,18-30,18-30,Wet,Dark,Rainy,Minor,Minor,5.0
+October,Thursday,Unknown,Truck,Unidentified,4,18-30,31-50,Wet,Daylight,Clear,Severe,Minor,35.230769230769226
+February,Tuesday,Haryana,Truck,Unidentified,2,Over 51,Unknown,Damaged/Construction,Twilight,Clear,Severe,Severe,60.0
+November,Tuesday,Uttar Pradesh,Truck,Car,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,74.0
+October,Saturday,Delhi,Truck,Unidentified,3,Over 51,Unknown,Damaged/Construction,Dark,Clear,Minor,Severe,65.0
+July,Wednesday,Unknown,Truck,Unidentified,2,31-50,Under 18,Wet,Daylight,Rainy,Minor,Minor,1.0
+August,Wednesday,Punjab,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Thursday,Unknown,Truck,Unidentified,2,Over 51,Unknown,Dry,Daylight,Clear,Minor,Minor,5.0
+February,Tuesday,Nagaland,Truck,Unidentified,2,Over 51,Unknown,Dry,Twilight,Fog/Mist,Minor,Severe,85.0
+March,Tuesday,Unknown,Truck,Unidentified,3,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,3.0952380952380953
+August,Sunday,Karnataka,Bus,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+May,Tuesday,Assam,Truck,Unidentified,1,Over 51,Unknown,Damaged/Construction,Twilight,Rainy,Minor,Severe,80.0
+February,Friday,Rajasthan,Truck,Unidentified,3,31-50,Unknown,Wet,Twilight,Fog/Mist,Severe,Severe,67.0
+March,Tuesday,Unknown,Truck,Unidentified,3,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,7.000000000000001
+November,Friday,Tamil Nadu,Truck,Unidentified,5,18-30,Unknown,Damaged/Construction,Dark,Fog/Mist,Minor,Severe,68.0
+November,Thursday,Maharashtra,Truck,Unidentified,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,64.0
+May,Tuesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,5.090909090909091
+September,Saturday,Unknown,Truck,Unidentified,2,Over 51,Unknown,Wet,Daylight,Rainy,Minor,Minor,7.000000000000001
+May,Saturday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,29.104564553093958
+March,Tuesday,Unknown,Truck,Unidentified,1,Unknown,18-30,Dry,Daylight,Clear,Minor,Minor,14.000000000000002
+May,Wednesday,Unknown,Truck,Unidentified,6,18-30,Unknown,Dry,Dark,Clear,Minor,Severe,56.99999999999999
+August,Sunday,Manipur,Truck,Unidentified,4,18-30,Unknown,Damaged/Construction,Dark,Rainy,Severe,Severe,56.00000000000001
+March,Monday,Unknown,Truck,Unidentified,2,Under 18,Unknown,Dry,Daylight,Clear,Minor,Minor,13.09090909090909
+October,Wednesday,Goa,Two Wheeler,Truck,2,Unknown,18-30,Dry,Dark,Clear,Severe,Severe,100.0
+March,Sunday,Telangana,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+October,Friday,Unknown,Truck,Unidentified,2,Under 18,31-50,Dry,Daylight,Clear,Minor,Minor,10.090909090909092
+March,Monday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Dark,Clear,Minor,Minor,2.0
+September,Tuesday,Rajasthan,Suv,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+March,Sunday,Unknown,Truck,Unidentified,1,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,38.04761904761905
+May,Saturday,Unknown,Truck,Unidentified,2,Unknown,18-30,Dry,Daylight,Clear,Minor,Minor,15.0
+March,Saturday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Clear,Minor,Minor,6.230769230769231
+April,Tuesday,Uttar Pradesh,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+May,Saturday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,23.0
+March,Thursday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Dark,Clear,Minor,Minor,3.0
+May,Wednesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,4.0
+November,Thursday,Uttar Pradesh,Bus,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+January,Sunday,Karnataka,Two Wheeler,Truck,2,Unknown,Over 51,Wet,Daylight,Clear,Severe,Severe,100.0
+August,Friday,Unknown,Truck,Unidentified,1,18-30,31-50,Wet,Dark,Rainy,Severe,Minor,30.0
+May,Wednesday,Maharashtra,Truck,Truck,2,Unknown,Over 51,Wet,Dark,Clear,Severe,Severe,100.0
+May,Thursday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,1.0
+October,Saturday,Himachal Pradesh,Truck,Unidentified,4,31-50,Unknown,Damaged/Construction,Daylight,Fog/Mist,Severe,Severe,67.0
+May,Sunday,Maharashtra,Van,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+May,Friday,Punjab,Two Wheeler,Truck,2,Unknown,Under 18,Dry,Daylight,Clear,Severe,Severe,100.0
+July,Monday,Arunachal Pradesh,Truck,Unidentified,3,31-50,Unknown,Damaged/Construction,Dark,Fog/Mist,Minor,Severe,74.0
+July,Tuesday,Unknown,Truck,Unidentified,1,Unknown,31-50,Wet,Dark,Rainy,Severe,Minor,14.166666666666666
+October,Thursday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Severe,Minor,21.736511456023653
+May,Thursday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,3.0
+October,Sunday,Unknown,Truck,Unidentified,4,31-50,Over 51,Dry,Daylight,Clear,Severe,Minor,9.0
+June,Sunday,Goa,Truck,Unidentified,1,31-50,Unknown,Damaged/Construction,Twilight,Rainy,Severe,Severe,63.0
+June,Monday,Unknown,Truck,Unidentified,2,18-30,Over 51,Wet,Daylight,Rainy,Minor,Minor,15.0
+March,Saturday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,6.0
+April,Monday,Maharashtra,Two Wheeler,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+May,Sunday,Unknown,Truck,Unidentified,1,18-30,Under 18,Dry,Daylight,Clear,Minor,Minor,27.0
+August,Saturday,Andhra Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Saturday,Maharashtra,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+April,Saturday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,2.230769230769231
+April,Thursday,Bihar,Two Wheeler,Truck,2,Unknown,31-50,Dry,Daylight,Clear,Severe,Severe,100.0
+March,Saturday,Unknown,Truck,Unidentified,2,Unknown,31-50,Dry,Daylight,Clear,Severe,Minor,3.81397228525474
+May,Tuesday,Odisha,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+April,Wednesday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,5.396103896103896
+April,Friday,Unknown,Truck,Unidentified,4,18-30,Unknown,Dry,Dark,Clear,Minor,Severe,53.0
+March,Wednesday,Unknown,Truck,Unidentified,1,18-30,18-30,Wet,Dark,Clear,Severe,Minor,31.634199134199132
+April,Wednesday,Gujarat,Two Wheeler,Truck,2,Unknown,31-50,Dry,Daylight,Clear,Severe,Severe,100.0
+January,Sunday,Maharashtra,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+May,Tuesday,Unknown,Truck,Unidentified,2,18-30,Over 51,Dry,Daylight,Clear,Minor,Minor,6.0476190476190474
+May,Thursday,Unknown,Truck,Unidentified,2,Over 51,31-50,Dry,Daylight,Clear,Minor,Minor,6.0
+February,Wednesday,Gujarat,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+August,Wednesday,Unknown,Truck,Unidentified,1,Over 51,18-30,Wet,Daylight,Rainy,Minor,Minor,36.0
+September,Sunday,Assam,Car,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+May,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,0.21428571428571425
+March,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,35.63907740809914
+June,Tuesday,Uttar Pradesh,Pedestrian,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+March,Wednesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Severe,64.0909090909091
+March,Friday,Unknown,Truck,Unidentified,2,Over 51,Over 51,Wet,Dark,Clear,Minor,Minor,14.268962921136835
+June,Wednesday,Chandigarh,Truck,Unidentified,4,Over 51,Unknown,Damaged/Construction,Dark,Rainy,Minor,Severe,75.0
+March,Friday,Unknown,Truck,Unidentified,1,Over 51,Under 18,Dry,Daylight,Clear,Minor,Minor,10.424242424242426
+October,Thursday,Unknown,Truck,Unidentified,1,31-50,18-30,Wet,Daylight,Clear,Minor,Minor,15.0
+March,Friday,Unknown,Truck,Unidentified,3,18-30,Under 18,Dry,Daylight,Clear,Minor,Minor,4.261695293953358
+April,Wednesday,Uttar Pradesh,Bus,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Severe,92.0
+March,Thursday,Unknown,Truck,Unidentified,1,31-50,Over 51,Dry,Daylight,Clear,Severe,Minor,34.0
+May,Thursday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Daylight,Clear,Minor,Minor,23.0
+April,Tuesday,Gujarat,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+April,Sunday,Unknown,Truck,Unidentified,2,Over 51,31-50,Dry,Daylight,Clear,Minor,Minor,11.166666666666668
+June,Tuesday,Tamil Nadu,Truck,Bus,2,Unknown,18-30,Wet,Dark,Clear,Severe,Severe,99.0
+March,Friday,Unknown,Truck,Unidentified,3,Over 51,18-30,Dry,Daylight,Clear,Minor,Minor,13.0
+June,Saturday,Delhi,Bus,Unidentified,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,89.0
+May,Saturday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Severe,68.09948495527243
+May,Tuesday,Unknown,Truck,Unidentified,2,31-50,Under 18,Dry,Daylight,Clear,Minor,Minor,28.52137445887446
+May,Saturday,Unknown,Truck,Unidentified,2,Over 51,Unknown,Dry,Daylight,Clear,Minor,Minor,6.0
+July,Monday,Tripura,Truck,Unidentified,3,Over 51,Unknown,Wet,Twilight,Fog/Mist,Severe,Severe,69.0
+December,Wednesday,Unknown,Bus,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Severe,91.0
+March,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Daylight,Clear,Severe,Minor,11.253601938033915
+September,Saturday,Punjab,Truck,Unidentified,1,Over 51,Unknown,Damaged/Construction,Dark,Fog/Mist,Severe,Severe,80.0
+May,Saturday,Unknown,Truck,Unidentified,2,18-30,Under 18,Dry,Daylight,Clear,Minor,Minor,7.061126166817224
+October,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,4.5524475524475525
+April,Wednesday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,2.0
+August,Thursday,Unknown,Truck,Unidentified,2,18-30,18-30,Wet,Daylight,Rainy,Minor,Minor,8.0
+March,Monday,Unknown,Truck,Unidentified,2,18-30,Over 51,Dry,Daylight,Clear,Minor,Minor,10.285714285714285
+March,Monday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Severe,Minor,6.9715936237675376
+October,Sunday,Karnataka,Bus,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,89.0
+April,Thursday,Unknown,Truck,Unidentified,1,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,16.801635627181174
+October,Tuesday,Unknown,Truck,Unidentified,2,Unknown,31-50,Dry,Dark,Clear,Minor,Minor,4.0
+June,Tuesday,Uttar Pradesh,Truck,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,98.0
+March,Wednesday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,2.0
+June,Thursday,Madhya Pradesh,Two Wheeler,Truck,2,Unknown,31-50,Dry,Daylight,Clear,Severe,Severe,100.0
+May,Tuesday,Unknown,Truck,Unidentified,2,Over 51,Unknown,Dry,Daylight,Clear,Severe,Minor,3.277056277056277
+July,Thursday,Uttar Pradesh,Truck,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,99.0
+June,Saturday,Unknown,Truck,Unidentified,1,Over 51,31-50,Wet,Dark,Rainy,Severe,Minor,38.230769230769226
+May,Sunday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,29.937728937728934
+January,Thursday,Kerala,Two Wheeler,Truck,2,Unknown,31-50,Wet,Daylight,Clear,Severe,Severe,100.0
+March,Friday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,6.851981351981353
+April,Friday,Unknown,Truck,Unidentified,2,Unknown,31-50,Dry,Daylight,Clear,Minor,Minor,2.024390243902439
+July,Saturday,Chhattisgarh,Bus,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+March,Wednesday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,3.6078832536249563
+March,Saturday,Sikkim,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Fog/Mist,Severe,Severe,80.0
+April,Monday,Unknown,Truck,Unidentified,2,18-30,Over 51,Dry,Daylight,Clear,Minor,Minor,9.181818181818182
+October,Friday,Unknown,Truck,Unidentified,2,Unknown,31-50,Dry,Daylight,Clear,Minor,Minor,3.191056910569105
+July,Wednesday,Unknown,Truck,Unidentified,3,31-50,18-30,Wet,Daylight,Rainy,Minor,Minor,15.0
+October,Tuesday,Unknown,Truck,Unidentified,2,18-30,Over 51,Dry,Dark,Clear,Minor,Minor,2.0
+May,Thursday,Unknown,Truck,Unidentified,1,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,20.0625
+October,Saturday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,3.0625
+March,Saturday,Unknown,Truck,Unidentified,1,Under 18,Unknown,Dry,Daylight,Clear,Severe,Severe,67.23076923076923
+October,Wednesday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,12.0
+June,Wednesday,Odisha,Pedestrian,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+June,Monday,Unknown,Truck,Unidentified,2,18-30,Under 18,Wet,Daylight,Rainy,Minor,Minor,4.0476190476190474
+April,Saturday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Minor,25.376623376623375
+May,Friday,Unknown,Truck,Unidentified,3,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,3.0
+August,Monday,Kerala,Truck,Unidentified,3,Over 51,Unknown,Damaged/Construction,Twilight,Rainy,Severe,Minor,42.0
+October,Thursday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Severe,67.6569055944056
+May,Friday,Unknown,Truck,Unidentified,3,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,8.201028138528137
+March,Thursday,Unknown,Truck,Unidentified,3,Under 18,Unknown,Dry,Daylight,Clear,Severe,Minor,33.594405594405586
+March,Wednesday,Maharashtra,Auto Rickshaw,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+May,Sunday,Unknown,Truck,Unidentified,3,Over 51,Unknown,Dry,Dark,Clear,Minor,Minor,6.090909090909091
+October,Saturday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,3.032258064516129
+May,Wednesday,Unknown,Truck,Unidentified,2,Over 51,Unknown,Dry,Daylight,Clear,Minor,Minor,14.43883582179721
+May,Tuesday,Unknown,Truck,Unidentified,3,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,2.090909090909091
+January,Sunday,Maharashtra,Pedestrian,Truck,2,Unknown,31-50,Wet,Daylight,Clear,Severe,Severe,100.0
+May,Sunday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Dark,Clear,Minor,Minor,8.09090909090909
+March,Sunday,Unknown,Truck,Unidentified,3,18-30,18-30,Wet,Dark,Clear,Severe,Minor,25.0
+May,Saturday,Gujarat,Truck,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,94.0
+May,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Clear,Severe,Minor,0.0
+October,Monday,Unknown,Truck,Unidentified,1,18-30,18-30,Dry,Daylight,Clear,Severe,Severe,63.0909090909091
+April,Thursday,Unknown,Truck,Unidentified,2,Over 51,Over 51,Dry,Daylight,Clear,Minor,Minor,22.110119047619047
+March,Thursday,Tamil Nadu,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Thursday,Kerala,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,96.0
+April,Tuesday,Unknown,Truck,Unidentified,3,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,11.582251082251082
+February,Wednesday,Madhya Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+August,Monday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Rainy,Severe,Minor,0.0
+July,Monday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Daylight,Rainy,Minor,Minor,12.09090909090909
+May,Monday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,8.0
+October,Tuesday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,22.620147186192497
+April,Wednesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.0
+September,Thursday,Chandigarh,Truck,Unidentified,3,Over 51,Unknown,Wet,Daylight,Clear,Minor,Severe,71.0
+October,Monday,Unknown,Truck,Unidentified,3,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,16.0
+May,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Dark,Clear,Minor,Minor,5.0
+September,Sunday,Uttar Pradesh,Car,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+September,Tuesday,Unknown,Truck,Unidentified,1,Unknown,Unknown,Wet,Daylight,Rainy,Minor,Minor,5.0
+May,Thursday,Unknown,Truck,Unidentified,2,Under 18,31-50,Dry,Daylight,Clear,Minor,Minor,3.562770562770562
+February,Wednesday,Tamil Nadu,Truck,Unidentified,2,Over 51,Unknown,Damaged/Construction,Dark,Rainy,Severe,Severe,79.0
+May,Tuesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.0
+August,Friday,Haryana,Truck,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+April,Thursday,Unknown,Truck,Unidentified,2,31-50,31-50,Wet,Dark,Clear,Minor,Minor,1.0
+November,Tuesday,Uttar Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Dark,Clear,Severe,Severe,100.0
+May,Thursday,Unknown,Truck,Unidentified,1,Unknown,18-30,Dry,Daylight,Clear,Minor,Minor,18.0
+October,Tuesday,Unknown,Truck,Unidentified,2,18-30,Under 18,Dry,Daylight,Clear,Minor,Minor,6.0
+March,Monday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,2.032258064516129
+April,Saturday,Uttar Pradesh,Car,Truck,2,Unknown,Unknown,Wet,Dark,Clear,Severe,Severe,100.0
+January,Sunday,Maharashtra,Truck,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Thursday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,11.03921568627451
+October,Friday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,2.0
+July,Friday,Unknown,Truck,Unidentified,3,31-50,Under 18,Wet,Daylight,Rainy,Minor,Minor,15.0
+October,Friday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,2.7395707225237773
+March,Tuesday,Unknown,Truck,Unidentified,1,Unknown,18-30,Wet,Dark,Clear,Minor,Minor,11.0
+April,Wednesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Daylight,Clear,Severe,Minor,1.0
+October,Tuesday,Maharashtra,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+October,Friday,Unknown,Truck,Unidentified,2,31-50,Over 51,Dry,Daylight,Clear,Minor,Minor,3.0
+August,Wednesday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Minor,46.0
+March,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,0.0
+October,Friday,Unknown,Truck,Unidentified,4,Unknown,18-30,Dry,Dark,Clear,Minor,Minor,11.0
+October,Monday,Unknown,Truck,Unidentified,1,Over 51,18-30,Dry,Daylight,Clear,Minor,Minor,20.166666666666664
+May,Sunday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Severe,Minor,14.214785214785215
+August,Saturday,Assam,Pedestrian,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+September,Monday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Dark,Rainy,Minor,Minor,12.0
+November,Sunday,Nagaland,Truck,Unidentified,5,18-30,Unknown,Damaged/Construction,Dark,Rainy,Minor,Severe,66.0
+April,Saturday,Unknown,Truck,Unidentified,2,Unknown,Over 51,Dry,Daylight,Clear,Minor,Minor,0.0
+March,Wednesday,Gujarat,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Tuesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,2.0
+August,Thursday,Tamil Nadu,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+June,Sunday,Madhya Pradesh,Two Wheeler,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+July,Friday,Uttar Pradesh,Auto Rickshaw,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,98.0
+July,Sunday,Maharashtra,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+September,Monday,Unknown,Truck,Unidentified,2,18-30,Under 18,Wet,Daylight,Rainy,Minor,Minor,3.0476190476190474
+January,Monday,Maharashtra,Car,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+May,Friday,Uttar Pradesh,Suv,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,95.0
+March,Tuesday,Chhattisgarh,Truck,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+October,Thursday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,1.0909090909090908
+May,Tuesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,1.032258064516129
+August,Sunday,Madhya Pradesh,Pedestrian,Truck,2,Unknown,31-50,Wet,Daylight,Clear,Severe,Severe,100.0
+February,Monday,Kerala,Truck,Unidentified,1,18-30,Unknown,Damaged/Construction,Twilight,Fog/Mist,Severe,Severe,71.0
+March,Friday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.0
+April,Saturday,Unknown,Truck,Unidentified,2,Under 18,Under 18,Dry,Daylight,Clear,Minor,Minor,35.0
+May,Tuesday,Unknown,Truck,Unidentified,2,Unknown,18-30,Dry,Daylight,Clear,Minor,Minor,4.0
+January,Sunday,Rajasthan,Car,Truck,2,Unknown,Unknown,Wet,Dark,Clear,Severe,Severe,100.0
+September,Saturday,Unknown,Truck,Unidentified,2,Under 18,Under 18,Wet,Dark,Rainy,Minor,Minor,16.0
+April,Monday,Unknown,Truck,Unidentified,3,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,1.0476190476190477
+March,Wednesday,Unknown,Truck,Unidentified,3,Over 51,Over 51,Dry,Daylight,Clear,Minor,Minor,15.221343873517787
+October,Monday,Unknown,Truck,Unidentified,2,Over 51,18-30,Dry,Daylight,Clear,Minor,Minor,17.0
+March,Friday,Unknown,Truck,Unidentified,2,Over 51,Under 18,Dry,Daylight,Clear,Minor,Minor,35.68617052802162
+March,Monday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,3.0
+May,Tuesday,Unknown,Truck,Unidentified,2,Unknown,Under 18,Dry,Daylight,Clear,Minor,Minor,1.0
+March,Wednesday,Unknown,Truck,Unidentified,2,Unknown,Over 51,Dry,Daylight,Clear,Minor,Minor,2.4437229437229435
+April,Sunday,Unknown,Truck,Unidentified,3,18-30,Under 18,Dry,Daylight,Clear,Minor,Minor,20.543290043290042
+April,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,28.311059904274334
+December,Monday,Uttar Pradesh,Truck,Car,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,89.0
+April,Sunday,Unknown,Truck,Unidentified,2,Unknown,31-50,Dry,Daylight,Clear,Minor,Minor,3.2727272727272725
+May,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,0.0
+May,Monday,Unknown,Truck,Unidentified,1,Under 18,Unknown,Dry,Daylight,Clear,Minor,Minor,21.0
+May,Sunday,Andhra Pradesh,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,98.0
+April,Wednesday,Unknown,Truck,Unidentified,2,Over 51,Unknown,Wet,Dark,Clear,Minor,Minor,12.0
+August,Sunday,Andhra Pradesh,Two Wheeler,Truck,2,Unknown,Over 51,Dry,Dark,Clear,Severe,Severe,100.0
+May,Wednesday,Telangana,Truck,Unidentified,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,87.0
+October,Wednesday,Maharashtra,Truck,Unidentified,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,88.0
+August,Tuesday,Haryana,Suv,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+March,Thursday,Unknown,Truck,Unidentified,2,Unknown,Over 51,Dry,Dark,Clear,Severe,Minor,8.0
+February,Tuesday,Maharashtra,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,99.0
+July,Sunday,Rajasthan,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+January,Sunday,Puducherry,Truck,Unidentified,2,31-50,Unknown,Damaged/Construction,Daylight,Fog/Mist,Minor,Severe,67.0
+May,Tuesday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Dark,Clear,Minor,Minor,1.0476190476190477
+October,Friday,Unknown,Truck,Unidentified,1,18-30,Over 51,Dry,Dark,Clear,Severe,Minor,31.0
+March,Thursday,Unknown,Truck,Unidentified,2,18-30,18-30,Wet,Dark,Clear,Minor,Minor,16.047619047619047
+August,Wednesday,West Bengal,Two Wheeler,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+October,Thursday,Tripura,Truck,Unidentified,1,Over 51,Unknown,Damaged/Construction,Daylight,Fog/Mist,Minor,Severe,85.0
+May,Friday,Tamil Nadu,Two Wheeler,Truck,2,Unknown,Under 18,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Saturday,Unknown,Truck,Unidentified,2,Unknown,18-30,Wet,Dark,Clear,Minor,Minor,8.669186353618331
+May,Sunday,Unknown,Truck,Unidentified,3,Under 18,18-30,Dry,Daylight,Clear,Minor,Minor,27.0
+October,Monday,Unknown,Truck,Unidentified,2,31-50,31-50,Wet,Dark,Clear,Minor,Minor,5.376623376623376
+August,Friday,Uttar Pradesh,Truck,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,97.0
+March,Friday,Unknown,Truck,Unidentified,1,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,6.0
+May,Sunday,Andhra Pradesh,Truck,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+May,Wednesday,Karnataka,Two Wheeler,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+October,Monday,Unknown,Truck,Unidentified,2,Over 51,18-30,Dry,Daylight,Clear,Severe,Minor,17.0
+March,Sunday,Unknown,Truck,Unidentified,2,31-50,18-30,Wet,Dark,Clear,Minor,Minor,15.0
+March,Friday,Unknown,Truck,Unidentified,3,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,2.230769230769231
+September,Thursday,West Bengal,Truck,Unidentified,5,18-30,Unknown,Damaged/Construction,Daylight,Fog/Mist,Severe,Severe,81.0
+December,Monday,Uttar Pradesh,Car,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,89.0
+April,Sunday,Unknown,Truck,Unidentified,1,Under 18,Under 18,Wet,Daylight,Clear,Severe,Minor,45.25757575757576
+March,Thursday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Daylight,Clear,Minor,Minor,15.0
+July,Thursday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Minor,28.000000000000004
+April,Sunday,Unknown,Truck,Unidentified,2,18-30,31-50,Wet,Daylight,Clear,Minor,Minor,21.0
+May,Wednesday,Tamil Nadu,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+October,Thursday,Unknown,Truck,Unidentified,2,Over 51,31-50,Dry,Daylight,Clear,Minor,Minor,6.0
+March,Tuesday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,44.0
+March,Sunday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,21.0
+October,Monday,Unknown,Truck,Unidentified,1,Unknown,31-50,Dry,Daylight,Clear,Minor,Minor,19.0
+May,Sunday,Maharashtra,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+October,Friday,Gujarat,Two Wheeler,Truck,2,Unknown,31-50,Wet,Daylight,Clear,Severe,Severe,100.0
+March,Tuesday,Unknown,Truck,Unidentified,4,31-50,Unknown,Wet,Daylight,Clear,Severe,Severe,55.00000000000001
+August,Wednesday,Unknown,Truck,Unidentified,3,Under 18,Unknown,Wet,Daylight,Rainy,Minor,Minor,21.090909090909093
+March,Saturday,Unknown,Truck,Unidentified,2,Under 18,Under 18,Dry,Daylight,Clear,Minor,Minor,28.999999999999996
+April,Saturday,Rajasthan,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+April,Saturday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Dark,Clear,Minor,Minor,9.0
+May,Saturday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,0.5430805753386398
+September,Thursday,Unknown,Truck,Unidentified,2,31-50,31-50,Wet,Dark,Rainy,Minor,Minor,1.0
+March,Wednesday,Unknown,Truck,Unidentified,2,Over 51,18-30,Dry,Daylight,Clear,Minor,Minor,1.951629800548413
+March,Friday,Unknown,Truck,Unidentified,4,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,3.0
+July,Wednesday,Tamil Nadu,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+September,Wednesday,Tripura,Truck,Unidentified,1,Over 51,Unknown,Damaged/Construction,Daylight,Rainy,Minor,Severe,88.0
+April,Thursday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Minor,11.0
+September,Monday,Unknown,Truck,Unidentified,2,Unknown,Under 18,Wet,Dark,Rainy,Minor,Minor,13.0
+March,Thursday,Unknown,Truck,Unidentified,1,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,7.000000000000001
+November,Saturday,Tamil Nadu,Truck,Unidentified,2,Over 51,Unknown,Wet,Dark,Fog/Mist,Severe,Severe,68.0
+June,Saturday,Bihar,Truck,Unidentified,5,31-50,Unknown,Wet,Daylight,Fog/Mist,Minor,Severe,73.0
+September,Monday,Karnataka,Car,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+March,Friday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Dark,Clear,Minor,Minor,13.0
+October,Saturday,Unknown,Truck,Unidentified,1,18-30,Unknown,Dry,Daylight,Clear,Severe,Minor,2.3974358974358974
+April,Tuesday,Unknown,Truck,Unidentified,3,Unknown,Unknown,Dry,Dark,Clear,Severe,Minor,30.0952380952381
+April,Monday,Unknown,Truck,Unidentified,2,Unknown,31-50,Dry,Daylight,Clear,Minor,Minor,5.0
+June,Wednesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Daylight,Rainy,Minor,Minor,1.0
+May,Friday,Unknown,Truck,Unidentified,2,Under 18,18-30,Dry,Dark,Clear,Minor,Minor,37.0
+March,Wednesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,4.0476190476190474
+May,Sunday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,17.65347018572825
+March,Thursday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,2.1577380952380953
+June,Monday,Rajasthan,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+March,Wednesday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Severe,64.0909090909091
+March,Wednesday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,0.09523809523809523
+November,Sunday,Unknown,Truck,Unidentified,2,18-30,31-50,Wet,Daylight,Cold,Minor,Minor,9.166666666666668
+May,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,15.443722943722943
+March,Friday,Unknown,Truck,Unidentified,2,Under 18,Over 51,Dry,Dark,Clear,Severe,Minor,4.0
+May,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,6.0
+July,Saturday,Madhya Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+March,Tuesday,Unknown,Truck,Unidentified,1,Under 18,Unknown,Dry,Daylight,Clear,Minor,Minor,33.04761904761905
+September,Thursday,Karnataka,Truck,Unidentified,5,Over 51,Unknown,Dry,Dark,Fog/Mist,Minor,Severe,62.0
+March,Thursday,Unknown,Truck,Unidentified,1,Unknown,Unknown,Dry,Dark,Clear,Minor,Minor,18.0
+May,Tuesday,Unknown,Truck,Unidentified,2,Over 51,31-50,Dry,Daylight,Clear,Minor,Minor,29.176989676989677
+May,Monday,Unknown,Truck,Unidentified,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Minor,3.0
+March,Monday,Telangana,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+March,Wednesday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,7.51850878163653
+March,Sunday,Unknown,Truck,Unidentified,2,Unknown,Unknown,Wet,Dark,Clear,Minor,Minor,26.348484848484848
+June,Monday,Unknown,Bus,Unidentified,2,Unknown,Unknown,Dry,Daylight,Clear,Minor,Severe,93.0
+April,Thursday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,12.019271051529115
+August,Saturday,Unknown,Truck,Unidentified,3,Unknown,Unknown,Wet,Dark,Rainy,Minor,Minor,10.0
+June,Tuesday,Odisha,Truck,Unidentified,1,18-30,Unknown,Wet,Daylight,Rainy,Severe,Severe,68.0
+May,Monday,Uttar Pradesh,Truck,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+March,Wednesday,Unknown,Truck,Unidentified,3,Under 18,31-50,Dry,Daylight,Clear,Minor,Minor,5.0
+December,Wednesday,Rajasthan,Truck,Unidentified,2,Unknown,18-30,Dry,Daylight,Clear,Minor,Severe,75.0
+December,Monday,Tamil Nadu,Van,Truck,2,Unknown,Unknown,Wet,Daylight,Clear,Severe,Severe,100.0
+March,Saturday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Dark,Clear,Severe,Minor,27.0
+April,Wednesday,Unknown,Truck,Unidentified,2,18-30,Under 18,Dry,Daylight,Clear,Severe,Minor,30.970261622435537
+March,Monday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Severe,Minor,0.0
+May,Wednesday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,23.337978612084502
+November,Monday,Rajasthan,Truck,Unidentified,4,Over 51,Unknown,Damaged/Construction,Dark,Fog/Mist,Minor,Severe,71.0
+March,Friday,Unknown,Truck,Unidentified,3,31-50,18-30,Dry,Dark,Clear,Severe,Minor,17.181818181818183
+April,Thursday,Unknown,Truck,Unidentified,3,18-30,Over 51,Wet,Daylight,Clear,Minor,Minor,31.0
+June,Friday,Rajasthan,Jugaad Vehicle,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+October,Tuesday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,36.37229437229438
+April,Tuesday,Rajasthan,Car,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+March,Sunday,Unknown,Truck,Unidentified,2,18-30,31-50,Wet,Daylight,Clear,Minor,Minor,22.527886747398945
+October,Friday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Dark,Clear,Minor,Minor,12.569828722002638
+May,Tuesday,Unknown,Truck,Unidentified,2,Unknown,Under 18,Dry,Daylight,Clear,Minor,Minor,4.0
+March,Thursday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,10.512732650537112
+March,Friday,Punjab,Car,Truck,2,Unknown,31-50,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Monday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Dark,Clear,Minor,Minor,11.410984848484848
+October,Saturday,Unknown,Truck,Unidentified,2,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,2.302179501104232
+December,Saturday,Andhra Pradesh,Truck,Bus,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,92.0
+March,Wednesday,Unknown,Truck,Unidentified,2,31-50,Under 18,Wet,Dark,Clear,Severe,Minor,42.0
+May,Monday,Unknown,Truck,Unidentified,2,18-30,Under 18,Dry,Dark,Clear,Minor,Minor,7.0849802371541495
+May,Friday,Unknown,Truck,Unidentified,2,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,6.0
+July,Tuesday,Unknown,Truck,Unidentified,2,18-30,18-30,Wet,Dark,Rainy,Minor,Minor,21.0
+May,Wednesday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,34.52097093176951
+June,Monday,Unknown,Truck,Unidentified,3,Unknown,18-30,Wet,Dark,Rainy,Minor,Minor,23.0
+May,Tuesday,Chandigarh,Truck,Unidentified,1,Over 51,Unknown,Damaged/Construction,Daylight,Clear,Severe,Severe,71.0
+March,Sunday,Unknown,Truck,Unidentified,2,18-30,18-30,Dry,Daylight,Clear,Minor,Minor,7.000000000000001
+August,Thursday,Assam,Car,Truck,2,Unknown,Over 51,Dry,Daylight,Clear,Severe,Severe,100.0
+January,Saturday,Andhra Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,99.0
+March,Saturday,Unknown,Truck,Unidentified,2,31-50,Under 18,Dry,Dark,Clear,Minor,Minor,10.0
+June,Monday,Unknown,Truck,Unidentified,2,31-50,Under 18,Wet,Daylight,Rainy,Minor,Minor,3.0
+March,Monday,Unknown,Truck,Unidentified,3,18-30,18-30,Dry,Dark,Clear,Minor,Minor,8.0
+October,Friday,Unknown,Truck,Unidentified,2,31-50,Under 18,Wet,Dark,Clear,Minor,Minor,21.0
+May,Friday,Unknown,Truck,Unidentified,1,31-50,18-30,Dry,Daylight,Clear,Minor,Minor,6.0
+April,Friday,Unknown,Truck,Unidentified,2,Over 51,Unknown,Dry,Daylight,Clear,Severe,Minor,41.0
+May,Thursday,Unknown,Truck,Unidentified,2,31-50,18-30,Wet,Dark,Clear,Minor,Minor,11.0
+May,Tuesday,Unknown,Truck,Unidentified,2,18-30,31-50,Dry,Daylight,Clear,Minor,Minor,4.367694805194805
+August,Thursday,Uttarakhand,Truck,Unidentified,3,18-30,Unknown,Wet,Twilight,Fog/Mist,Minor,Severe,93.0
+May,Tuesday,Unknown,Truck,Unidentified,3,18-30,18-30,Dry,Daylight,Clear,Severe,Minor,15.401555433813499
+April,Tuesday,Unknown,Truck,Unidentified,2,Over 51,Over 51,Wet,Daylight,Clear,Minor,Minor,20.12316715542522
+August,Sunday,Uttar Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Dark,Clear,Severe,Severe,100.0
+April,Saturday,Unknown,Truck,Unidentified,2,18-30,Unknown,Wet,Daylight,Clear,Minor,Minor,4.281602175754022
+July,Sunday,Maharashtra,Two Wheeler,Truck,2,Unknown,Unknown,Wet,Dark,Clear,Severe,Severe,99.0
+October,Thursday,Unknown,Truck,Unidentified,3,18-30,18-30,Dry,Dark,Clear,Minor,Minor,8.0
+June,Wednesday,Madhya Pradesh,Two Wheeler,Truck,2,Unknown,31-50,Dry,Dark,Clear,Severe,Severe,100.0
+March,Monday,Unknown,Truck,Unidentified,2,Under 18,Unknown,Dry,Daylight,Clear,Minor,Minor,21.090909090909093
+January,Sunday,Tamil Nadu,Truck,Truck,2,Unknown,18-30,Dry,Daylight,Clear,Severe,Severe,100.0
+July,Saturday,Gujarat,Truck,Truck,2,Unknown,31-50,Dry,Dark,Clear,Severe,Severe,100.0
+July,Friday,Unknown,Truck,Unidentified,2,Over 51,18-30,Wet,Daylight,Rainy,Minor,Minor,3.0
+May,Saturday,Unknown,Truck,Unidentified,2,31-50,18-30,Dry,Dark,Clear,Minor,Severe,66.0
+October,Tuesday,Unknown,Truck,Unidentified,2,18-30,Under 18,Dry,Dark,Clear,Minor,Minor,12.09090909090909
+September,Saturday,Unknown,Truck,Unidentified,1,18-30,Unknown,Wet,Dark,Rainy,Severe,Minor,24.0
+August,Wednesday,Bihar,Suv,Truck,2,Unknown,Unknown,Dry,Dark,Clear,Severe,Severe,100.0
+May,Tuesday,Unknown,Truck,Unidentified,1,31-50,Unknown,Dry,Daylight,Clear,Minor,Minor,10.219561316316268
+September,Wednesday,Haryana,Two Wheeler,Truck,2,Unknown,31-50,Wet,Daylight,Clear,Severe,Severe,100.0
+January,Wednesday,Andhra Pradesh,Two Wheeler,Truck,2,Unknown,Unknown,Dry,Daylight,Clear,Severe,Severe,100.0
+April,Thursday,Unknown,Truck,Unidentified,2,31-50,Unknown,Wet,Dark,Clear,Minor,Minor,5.0
+April,Friday,Unknown,Truck,Unidentified,4,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,7.03225806451613
+October,Monday,Punjab,Truck,Unidentified,4,18-30,Unknown,Damaged/Construction,Daylight,Rainy,Minor,Severe,67.0
+March,Tuesday,Unknown,Truck,Unidentified,2,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,4.0
+October,Tuesday,Unknown,Truck,Unidentified,3,18-30,Unknown,Dry,Daylight,Clear,Minor,Minor,6.0
+April,Tuesday,Unknown,Truck,Unidentified,1,18-30,Over 51,Dry,Daylight,Clear,Minor,Severe,61.0
+March,Monday,Unknown,Truck,Unidentified,2,Under 18,18-30,Dry,Daylight,Clear,Minor,Minor,3.090909090909091
+July,Monday,Maharashtra,Truck,Unidentified,2,31-50,Unknown,Damaged/Construction,Twilight,Clear,Severe,Severe,70.0
+April,Monday,Unknown,Truck,Unidentified,4,31-50,31-50,Dry,Daylight,Clear,Minor,Minor,5.257575757575758
+August,Sunday,Maharashtra,Two Wheeler,Truck,2,Unknown,18-30,Dry,Dark,Clear,Severe,Severe,100.0
+October,Tuesday,Unknown,Truck,Unidentified,1,31-50,Over 51,Dry,Daylight,Clear,Minor,Minor,15.526806526806524

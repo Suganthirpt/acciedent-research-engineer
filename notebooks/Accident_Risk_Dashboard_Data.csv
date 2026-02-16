@@ -1,0 +1,51 @@
+month,day_of_week,state,vehicle_1,vehicle_2,vehicles_involved,party_age_group,victim_age_group,road_condition,lighting_condition,weather_group,Actual_Severity,Predicted_Severity,Risk_Score,Main_Risk_Factor
+October,Sunday,Unknown,Truck,13,2,Over 51,18-30,1,1,Clear,Minor,Minor,5.878059504616738,party_age_group
+October,Tuesday,Unknown,Truck,13,1,18-30,Unknown,2,0,Clear,Severe,Minor,46.0,month
+October,Thursday,Unknown,Truck,13,3,18-30,Unknown,1,1,Clear,Minor,Minor,1.0,victim_age_group
+June,Thursday,Tripura,Truck,13,1,Over 51,Unknown,0,2,Rainy,Minor,Severe,30.0,road_condition
+July,Sunday,Unknown,Truck,13,2,31-50,31-50,2,1,Rainy,Minor,Minor,1.0,month
+April,Thursday,Unknown,Truck,13,2,18-30,Over 51,1,1,Clear,Minor,Minor,11.0,day_of_week
+October,Wednesday,Unknown,Truck,13,2,18-30,18-30,1,1,Clear,Minor,Minor,11.668340447622787,victim_age_group
+May,Friday,Unknown,Truck,13,2,18-30,31-50,1,1,Clear,Minor,Minor,22.96208499086769,day_of_week
+September,Saturday,Unknown,Truck,13,3,31-50,Unknown,2,0,Rainy,Minor,Minor,28.000000000000004,month
+May,Tuesday,Unknown,Truck,13,2,31-50,Unknown,1,1,Clear,Minor,Minor,0.7059031459879815,victim_age_group
+March,Friday,Unknown,Truck,13,2,31-50,18-30,1,1,Clear,Minor,Severe,72.81133786848073,month
+April,Tuesday,Unknown,Truck,13,3,Over 51,18-30,1,1,Clear,Minor,Minor,40.0,party_age_group
+May,Sunday,Rajasthan,Car,11,2,Unknown,Unknown,1,1,Clear,Severe,Severe,0.0,vehicle_2
+March,Tuesday,Odisha,Truck,13,4,Over 51,Unknown,1,1,Fog/Mist,Minor,Severe,47.0,lighting_condition
+April,Monday,Unknown,Truck,13,2,31-50,31-50,1,1,Clear,Minor,Minor,2.0,victim_age_group
+April,Thursday,Unknown,Truck,13,3,18-30,Unknown,1,1,Clear,Minor,Minor,17.73326943154662,vehicles_involved
+October,Tuesday,Haryana,Two Wheeler,11,2,Unknown,Unknown,1,1,Clear,Severe,Severe,0.0,vehicle_2
+June,Tuesday,Madhya Pradesh,Truck,9,2,Unknown,Unknown,1,1,Clear,Severe,Severe,0.0,vehicle_2
+May,Monday,Unknown,Truck,13,1,31-50,Unknown,2,0,Clear,Minor,Minor,24.827600497306257,cause_of_accident
+March,Thursday,Unknown,Truck,13,2,18-30,31-50,1,1,Clear,Severe,Minor,2.411563147910977,month
+November,Sunday,Chhattisgarh,Two Wheeler,11,2,Unknown,Unknown,2,1,Clear,Severe,Severe,0.0,vehicle_2
+May,Thursday,West Bengal,Truck,13,3,Over 51,Unknown,1,2,Rainy,Severe,Severe,24.0,road_condition
+July,Sunday,Maharashtra,Car,11,2,Unknown,Unknown,2,1,Clear,Severe,Severe,1.0,vehicle_2
+April,Tuesday,Unknown,Truck,13,6,Unknown,31-50,1,1,Clear,Minor,Minor,5.827600497306258,vehicles_involved
+October,Tuesday,Karnataka,Car,11,2,Unknown,Unknown,2,0,Clear,Severe,Severe,0.0,vehicle_2
+March,Monday,Unknown,Truck,13,2,Unknown,Unknown,1,1,Clear,Minor,Minor,1.0,party_age_group
+March,Friday,Unknown,Truck,13,1,Unknown,Over 51,1,1,Clear,Minor,Minor,13.0,month
+May,Tuesday,Unknown,Truck,13,3,Under 18,18-30,1,1,Clear,Severe,Minor,9.0,vehicles_involved
+October,Wednesday,Jammu and Kashmir,Truck,13,2,Unknown,Unknown,1,1,Clear,Severe,Severe,0.0,month
+August,Wednesday,Uttar Pradesh,Truck,13,2,Unknown,Under 18,2,0,Clear,Severe,Severe,6.0,month
+May,Friday,Unknown,Truck,13,2,Unknown,Unknown,1,0,Clear,Minor,Minor,0.0,party_age_group
+January,Sunday,Punjab,Truck,13,3,31-50,Unknown,0,0,Rainy,Minor,Severe,19.0,cause_of_accident
+May,Friday,Unknown,Truck,13,3,Unknown,18-30,1,0,Clear,Minor,Minor,16.0,month
+October,Monday,Unknown,Truck,13,2,31-50,18-30,1,1,Clear,Minor,Minor,23.8002767181351,month
+March,Wednesday,Maharashtra,Car,11,2,Unknown,Unknown,1,0,Clear,Severe,Severe,0.0,vehicle_2
+October,Saturday,Unknown,Truck,13,3,18-30,18-30,1,1,Clear,Minor,Minor,5.0,month
+April,Friday,Unknown,Truck,13,3,18-30,18-30,2,1,Clear,Minor,Minor,15.533503643294239,vehicles_involved
+October,Sunday,Unknown,Truck,13,2,31-50,Unknown,1,0,Clear,Severe,Minor,4.0,month
+March,Thursday,Unknown,Truck,13,2,31-50,Unknown,2,0,Clear,Minor,Minor,13.0,month
+March,Sunday,Unknown,Truck,13,2,31-50,Unknown,1,0,Clear,Minor,Minor,18.935071016076165,victim_age_group
+April,Friday,Unknown,Truck,13,2,Unknown,Unknown,2,1,Clear,Minor,Minor,0.0,party_age_group
+March,Saturday,Haryana,Pedestrian,11,2,Unknown,Unknown,1,1,Clear,Severe,Severe,0.0,vehicle_2
+October,Saturday,Unknown,Truck,13,3,31-50,Unknown,1,0,Clear,Minor,Minor,34.935071016076165,road_condition
+March,Tuesday,Unknown,Truck,13,2,18-30,Unknown,1,1,Clear,Minor,Minor,0.0,month
+May,Wednesday,Rajasthan,Car,11,2,Unknown,Unknown,1,0,Clear,Severe,Severe,0.0,vehicle_2
+May,Sunday,Unknown,Truck,13,4,Unknown,31-50,1,1,Clear,Minor,Minor,1.0,day_of_week
+January,Monday,Uttar Pradesh,Pedestrian,11,2,Unknown,Unknown,1,0,Clear,Severe,Severe,1.0,vehicle_2
+April,Thursday,Unknown,Truck,13,2,18-30,31-50,1,0,Clear,Minor,Minor,3.0,road_condition
+September,Thursday,Delhi,Truck,13,1,Over 51,Unknown,0,2,Rainy,Severe,Severe,6.0,road_condition
+July,Sunday,Unknown,Truck,13,4,Unknown,Unknown,2,1,Rainy,Minor,Minor,8.0,lighting_condition
