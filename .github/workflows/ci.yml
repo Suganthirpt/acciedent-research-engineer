@@ -1,28 +1,53 @@
-name: Python CI
+name: Python CI - Train Model & Publish Artifacts
 
 on:
   push:
-    branches: [ main ]
+    branches: [ "main" ]
   pull_request:
+    branches: [ "main" ]
+  workflow_dispatch: {}  # allow manual runs from GitHub UI
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.11'
+        python-version: "3.10"   # 3.10 is very compatible with most ML libs
+
+    - name: Cache pip
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
 
     - name: Install dependencies
       run: |
+        python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run environment test
+    - name: Smoke test environment (optional)
       run: |
         python test_environment.py
 
-        
+    - name: Ensure output folder exists
+      run: |
+        mkdir -p output
+
+    - name: Run training script
+      run: |
+        python src/03_model_training.py
+
+    - name: Upload artifacts (model, risk CSV, plots)
+      uses: actions/upload-artifact@v4
+      with:
+        name: model-training-output
+        path: |
+          output/**
