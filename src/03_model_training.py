@@ -280,24 +280,24 @@ print("\n--- ✅ Low Risk Examples (Risk < 20) ---")
 print(risk_df[risk_df['Risk_Score'] < 20].head(10))
 
 
-# %%
-import pandas as pd
-import matplotlib.pyplot as plt
+# # %%
+# import pandas as pd
+# import matplotlib.pyplot as plt
 
-# Get feature importances
-importances = rf_binary.feature_importances_
-feature_names = X_train.columns
+# # Get feature importances
+# importances = rf_binary.feature_importances_
+# feature_names = X_train.columns
 
-# Create a DataFrame
-feature_imp_df = pd.DataFrame({'Feature': feature_names, 'Importance': importances})
-feature_imp_df = feature_imp_df.sort_values(by='Importance', ascending=False)
+# # Create a DataFrame
+# feature_imp_df = pd.DataFrame({'Feature': feature_names, 'Importance': importances})
+# feature_imp_df = feature_imp_df.sort_values(by='Importance', ascending=False)
 
-# Plot
-plt.figure(figsize=(10, 6))
-plt.barh(feature_imp_df['Feature'], feature_imp_df['Importance'])
-plt.gca().invert_yaxis()
-plt.title("What is driving the predictions?")
-plt.show()
+# # Plot
+# plt.figure(figsize=(10, 6))
+# plt.barh(feature_imp_df['Feature'], feature_imp_df['Importance'])
+# plt.gca().invert_yaxis()
+# plt.title("What is driving the predictions?")
+# plt.show()
 
 # %% [markdown]
 # ### Observation: Model accuracy and prediction improved after changing it to binary class. 
@@ -383,24 +383,24 @@ print(classification_report(y_test, y_pred_xgb, target_names=target_names))
 # 5. Compare with Random Forest (Optional check)
 # If your RF was ~95%, let's see if XGBoost beats it!
 
-# %%
-# Plot Feature Importance
-plt.figure(figsize=(10, 8))
-# max_num_features=10 shows only the top 10
-plot_importance(xgb_model, max_num_features=10, height=0.5, color='teal')
-plt.title('XGBoost Feature Importance (Top 10 Drivers of Severity)')
-plt.show()
+# # %%
+# # Plot Feature Importance
+# plt.figure(figsize=(10, 8))
+# # max_num_features=10 shows only the top 10
+# plot_importance(xgb_model, max_num_features=10, height=0.5, color='teal')
+# plt.title('XGBoost Feature Importance (Top 10 Drivers of Severity)')
+# plt.show()
 
-# %%
-import seaborn as sns
-import matplotlib.pyplot as plt
+# # %%
+# import seaborn as sns
+# import matplotlib.pyplot as plt
 
-# 1. Day of Week Impact
-plt.figure(figsize=(10, 5))
-# Assuming 'day_of_week' is textual (Mon, Tue...) or numeric
-sns.countplot(x='day_of_week', hue='severity_binary', data=df_final, palette='viridis')
-plt.title('Accident Severity by Day of Week')
-plt.show()
+# # 1. Day of Week Impact
+# plt.figure(figsize=(10, 5))
+# # Assuming 'day_of_week' is textual (Mon, Tue...) or numeric
+# sns.countplot(x='day_of_week', hue='severity_binary', data=df_final, palette='viridis')
+# plt.title('Accident Severity by Day of Week')
+# plt.show()
 
 
 # %% [markdown]
@@ -495,19 +495,19 @@ shap_values = explainer.shap_values(X_test.iloc[:50]) # Calculate for first 50 t
 
 print("SHAP Values calculated successfully!")
 
-# 7. Summary Plot
-# shap_values[1] represents the impact on the 'Severe' class
-shap.summary_plot(shap_values[1], X_test.iloc[:50])
+# # 7. Summary Plot
+# # shap_values[1] represents the impact on the 'Severe' class
+# shap.summary_plot(shap_values[1], X_test.iloc[:50])
 
-# %%
-import matplotlib.pyplot as plt
+# # %%
+# import matplotlib.pyplot as plt
 
-# Check which class is which (e.g., Class 0 = Drunk, Class 1 = Speeding)
-# We will plot the SHAP values for Class 1 (adjust index if needed)
-class_index = 1 
+# # Check which class is which (e.g., Class 0 = Drunk, Class 1 = Speeding)
+# # We will plot the SHAP values for Class 1 (adjust index if needed)
+# class_index = 1 
 
-plt.title(f'Top Factors specific to Cause Class {class_index}', fontsize=14)
-shap.summary_plot(shap_values[class_index], X_test_c.iloc[:50], plot_type="bar")
+# plt.title(f'Top Factors specific to Cause Class {class_index}', fontsize=14)
+# shap.summary_plot(shap_values[class_index], X_test_c.iloc[:50], plot_type="bar")
 
 # %% [markdown]
 # ## Export data to visualize in Power BI dashboard
